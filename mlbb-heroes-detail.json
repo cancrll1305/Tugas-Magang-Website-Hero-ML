@@ -1,0 +1,1111 @@
+[
+  {
+    "name": "Miya",
+    "slug": "miya",
+    "url": "https://mobile-legends.fandom.com/wiki/Miya",
+    "title": "Miya \"Moonlight Archer\"",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png",
+    "lead": {
+      "quote": "“ An archer blessed by the Moon God. ” — Mobile Legends: Bang Bang",
+      "summary": [
+        "Miya, the Moonlight Archer, is a hero in Mobile Legends: Bang Bang.",
+        "According to \"Sale Time, \" she is the first hero in the game. She is also the game's official mascot, appearing at the end of every trailer, advertisement, and MLBB app icon."
+      ]
+    },
+    "info": {
+      "Release date": "2016",
+      "Role": "Marksman",
+      "Specialty": "Finisher/Damage",
+      "Lane Recc.": "Gold Lane",
+      "Price": "10800 or 399",
+      "Skill resource": "Mana",
+      "Damage type": "Physical",
+      "Basic attack type": "Ranged",
+      "Durability": "1",
+      "Offense": "7",
+      "Control effects": "4",
+      "Difficulty": "1",
+      "Alias": "Moonlight Archer | Priestess of the Moon",
+      "Chinese Name": "米娅 (mǐyà)",
+      "Internal name": "gongjianshou (弓箭手, “archer”)",
+      "Birthday": "September 6 (Virgo)",
+      "Born": "Moonlit Forest, Azrya Woodlands",
+      "Age": "Immortal",
+      "Gender": "Female",
+      "Species": "Moon elf",
+      "Occupation": "Priestess",
+      "Affiliation": "Lunar Temple | Moniyan Empire | The Abyss (enemies)",
+      "Weapons": "Silver bow and arrow",
+      "Abilities": "Summons Moonlight Shadows and Moon Eclipse | Invisibility",
+      "Battles fought": "Invasion of Moonlit Forest",
+      "Website": "Legends of Dawn hero page | Miya Mastery Code",
+      "English": "Feena Glynn (2017–2020) | Christina Clark (2020–present)",
+      "Japanese": "Morisaki Miho (森嵜 美穂)",
+      "Indonesian": "Siti Balqis",
+      "Arabic": "Asia Nabulsi",
+      "Portuguese": "Michelle Zampieri",
+      "Russian": "Shcherbakova Paulina",
+      "Turkish": "Zeynep Acehan",
+      "Spanish": "Jessica Ángeles",
+      "Chinese": "Youwu Zhang (幽舞越山)"
+    },
+    "stats": [
+      {
+        "attribute": "HP",
+        "level1": "2225",
+        "level15": "4367",
+        "growth": "153"
+      },
+      {
+        "attribute": "HP Regen",
+        "level1": "6.0",
+        "level15": "9.0",
+        "growth": "0.2143"
+      },
+      {
+        "attribute": "Mana",
+        "level1": "500",
+        "level15": "1900",
+        "growth": "100"
+      },
+      {
+        "attribute": "Mana Regen",
+        "level1": "4",
+        "level15": "6.8",
+        "growth": "0.2"
+      },
+      {
+        "attribute": "Physical Attack",
+        "level1": "115",
+        "level15": "227",
+        "growth": "8"
+      },
+      {
+        "attribute": "Physical Defense (Physical Damage Reduced)",
+        "level1": "17 (12.4%)",
+        "level15": "74 (38.1%)",
+        "growth": "4.0714"
+      },
+      {
+        "attribute": "Magic Defense (Magic Damage Reduced)",
+        "level1": "15 (11.1%)",
+        "level15": "50 (29.4%)",
+        "growth": "2.5"
+      },
+      {
+        "attribute": "Attack Speed",
+        "level1": "1.06",
+        "level15": "1.41",
+        "growth": "0.025"
+      }
+    ],
+    "skills": [
+      {
+        "type": "Passive",
+        "name": "Moon Blessing",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Moon_Blessing.png",
+        "tags": [
+          "Buff"
+        ],
+        "metadata": [
+          "Attack Effects: 25%",
+          "Lifesteal Ratio: 0%"
+        ],
+        "description": "Each time Miya hits a target with her  Basic Attack, she gains 5% Attack Speed for 4 seconds. Stacks up to 5 times.\nAfter reaching full stacks, Miya summons a Moonlight Shadow with each Basic Attack that deals 30 (+25% Total Physical Attack) Physical Damage and inherits a portion of Attack Effects.",
+        "terms": [
+          {
+            "label": "Attack Speed",
+            "description": "Current Attack Speed = Base Attack Speed + Extra Attack Speed × Attack Speed Ratio. The current total Attack Speed determines the number of attacks per second (capped at 3 attacks per second)."
+          },
+          {
+            "label": "Crit Rate",
+            "description": "Chance to cause Crit Damage with Basic ATK (including Physical and Magic). The default is 0. A Crit Damage is guaranteed when it is over 100%. Some skills trigger this effect. For example: Layla's Malefic Bomb and the Typhoon effect of Windtalker."
+          },
+          {
+            "label": "Attack Effect",
+            "description": "Both Physical and Magic Basic Attacks can trigger Attack Effects Attack Effects include the \"Devour\" effect of the Demon Hunter Sword equipment, the 'Weakness Finder\" Talent effect, etc."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Stack scaling",
+            "headers": [
+              "Property",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "rows": [
+              [
+                "Extra Attack Speed",
+                "5%"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Moon_Blessing_%28Legend%29.png"
+        ]
+      },
+      {
+        "type": "Skill 1",
+        "name": "Moon Arrow",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Moon_Arrow.png",
+        "tags": [
+          "Buff",
+          "AOE"
+        ],
+        "metadata": [
+          "Attack Effects: 20%",
+          "Lifesteal Ratio: 0%"
+        ],
+        "description": "Miya shoots two extra arrows with each  Basic Attack, dealing 10–35 (+100% Total Physical Attack) Physical Damage to the target enemy and 30% damage to nearby targets. This effect lasts 4 seconds. Each extra arrow inherits a portion of Attack Effects.",
+        "terms": [
+          {
+            "label": "Physical Basic Attack",
+            "description": "Deal Physical Damage to enemies. Triggers ATK Effects and Lifesteal."
+          },
+          {
+            "label": "Attack Effect",
+            "description": "Both Physical and Magic Basic Attacks can trigger Attack Effects Attack Effects include the \"Devour\" effect of the Demon Hunter Sword equipment, the 'Weakness Finder\" Talent effect, etc."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "11.0"
+              ],
+              [
+                "Mana Cost",
+                "50",
+                "55",
+                "60",
+                "65",
+                "70",
+                "75"
+              ],
+              [
+                "Base Damage",
+                "10",
+                "15",
+                "20",
+                "25",
+                "30",
+                "35"
+              ],
+              [
+                "Duration",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9"
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "Cooldown starts upon casting.",
+          "This skill cannot be cast again until its duration ends."
+        ],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Moon_Arrow_%28Legend%29.png"
+        ]
+      },
+      {
+        "type": "Skill 2",
+        "name": "Arrow of Eclipse",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Arrow_of_Eclipse.png",
+        "tags": [
+          "CC",
+          "AOE"
+        ],
+        "metadata": [],
+        "description": "Miya launches an empowered arrow on the target area, dealing 270–420 (+45% Total Physical Attack) Physical Damage to enemies within and immobilizing them for 1.2 seconds. The arrow then splits into 6 scattering minor arrows, each dealing 40–105 (+20% Total Physical Attack) Physical Damage to the first enemy hit and slowing them by 30% for 2 seconds.",
+        "terms": [
+          {
+            "label": "Immobilize",
+            "description": "Low level Crowd Control: Prevents a target from moving or using Blink/Charge skills. Cannot interrupt skills."
+          },
+          {
+            "label": "Physical Damage Skill",
+            "description": "Deal Physical DMG to enemies. Triggers Spell Vamp."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "8.0"
+              ],
+              [
+                "Mana Cost",
+                "80",
+                "90",
+                "100",
+                "110",
+                "120",
+                "130"
+              ],
+              [
+                "Base Damage",
+                "270",
+                "300",
+                "330",
+                "360",
+                "390",
+                "420"
+              ],
+              [
+                "Arrow Damage",
+                "40",
+                "53",
+                "66",
+                "79",
+                "92",
+                "105"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Arrow_of_Eclipse_%28Legend%29.png"
+        ]
+      },
+      {
+        "type": "Ultimate",
+        "name": "Hidden Moonlight",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hidden_Moonlight.png",
+        "tags": [
+          "Conceal",
+          "Remove CC"
+        ],
+        "metadata": [],
+        "description": "Miya removes all debuffs on her and conceals herself, gaining 65% extra Movement Speed. This state lasts 2 seconds or until she launches an attack.\nMiya gains full stacks of  Moon Blessing upon leaving the state.",
+        "terms": [
+          {
+            "label": "Exceptional Status",
+            "description": "Debuff applied to the enemy."
+          },
+          {
+            "label": "Movement Speed",
+            "description": "Movement Speed on the battlefield. Usually Calculated and Actual Movement Speed is equal. But when Movement Speed is below 230 or over 420 both Slowdown and Speedup Effect will decay. Calculated Movement Speed = Basic Movement Speed × (100% + All Speedup Effect% - All Slowdown Effect%)."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "30.0",
+                "25.0",
+                "20.0"
+              ],
+              [
+                "Mana Cost",
+                "120",
+                "145",
+                "170"
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "\"Attacks\" that end the duration of Moon Blessing only refer to Miya's basic attacks and her non-ultimate skill casts."
+        ],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hidden_Moonlight_%28Legend%29.png"
+        ]
+      }
+    ],
+    "skins": [
+      {
+        "name": "Moonlight Archer",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Miya_%28Moonlight_Archer%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Burning Bow",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Miya_%28Burning_Bow%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Christmas Carnival",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Miya_%28Christmas_Carnival%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Captain Thorns",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Miya_%28Captain_Thorns%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Honor",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Miya_%28Honor%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Modena Butterfly",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Miya_%28Modena_Butterfly%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Sweet Fantasy",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Suzuhime",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Miya_%28Suzuhime%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Jungle Ranger",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Miya_%28Jungle_Ranger%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Moon Priestess",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Miya_%28Moon_Priestess%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Doom Catalyst",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Miya_%28Doom_Catalyst%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Atomic Pop Miya",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Miya_%28Atomic_Pop_Miya%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Nightowl Huntress",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Arrow of Spring",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Miya_Arrow_of_Spring.png",
+        "category": "Splash art"
+      },
+      {
+        "name": "Nightowl Sentiel",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Miya_Nightowl_Sentiel.png",
+        "category": "Painted skins"
+      }
+    ],
+    "gallery": {
+      "Splash art": [
+        {
+          "name": "Moonlight Archer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Miya_%28Moonlight_Archer%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Burning Bow",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Miya_%28Burning_Bow%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Christmas Carnival",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Miya_%28Christmas_Carnival%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Captain Thorns",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Miya_%28Captain_Thorns%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Honor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Miya_%28Honor%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Modena Butterfly",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Miya_%28Modena_Butterfly%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Miya_%28Sweet_Fantasy%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Suzuhime",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Miya_%28Suzuhime%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Jungle Ranger",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Miya_%28Jungle_Ranger%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Moon Priestess",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Miya_%28Moon_Priestess%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Doom Catalyst",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Miya_%28Doom_Catalyst%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Miya_%28Atomic_Pop_Miya%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Arrow of Spring",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Miya_Arrow_of_Spring.png",
+          "category": "Splash art"
+        }
+      ],
+      "Painted skins": [
+        {
+          "name": "Nightowl Sentiel",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Miya_Nightowl_Sentiel.png",
+          "category": "Painted skins"
+        }
+      ],
+      "Avatar icons": [
+        {
+          "name": "Moonlight Archer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Burning Bow",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero012-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Christmas Carnival",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero013-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Captain Thorns",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero014-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Honor",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero015-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Modena Butterfly",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero016-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Sweet Fantasy",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero017-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Suzuhime",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero018-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Jungle Ranger",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero019-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Moon Priestess",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero100110-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Doom Catalyst",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero100111-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Atomic Pop Miya",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero100112-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Nightowl Huntress",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Arrow of Spring",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero100115-icon.png",
+          "category": "Avatar icons"
+        }
+      ],
+      "Battle emotes": [
+        {
+          "name": "Let's Go on a Date Obtained from limited-time events.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Battle_Emote_-_Let%27s_Go_on_a_Date%21.png",
+          "category": "Battle emotes"
+        },
+        {
+          "name": "Guiding Arrow Battle Emote. Obtained via the Gallery after collecting the Atomic Pop series skins.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Battle_Emote_-_Guiding_Arrow.png",
+          "category": "Battle emotes"
+        },
+        {
+          "name": "MRO - That's Me, Alright MLBB Rising Open Battle Emote",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/MRO_-_That%27s_Me%2C_Alright.png",
+          "category": "Battle emotes"
+        },
+        {
+          "name": "Wishing Obtained via the Eternal Seasons: Spring & Fall event.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Wishing.png",
+          "category": "Battle emotes"
+        }
+      ]
+    },
+    "story": {
+      "quote": "“ The Moon Priestess guarding the Azrya Woodlands ”",
+      "intro": [
+        "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection. Miya became the Priestess of the Moon, and for thousands of years she served faithfully in the Lunar Temple, diligently watching over her people. However, with the continued expansion of the Abyss and its dark legions, the Land of Dawn is once again shrouded by the fog of war. From the Moonlit Forest, a call to war that has not been heard in thousands of years sounded again. Miya took up her silver bow and swore by the light of the moon to fight for her people."
+      ],
+      "bio": [
+        "\"What is war, brother?\" \"When the races of the Land of Dawn turned on one another instead of embracing unity and mutual prosperity, that is war. When they invaded their neighbors and razed cities to the ground, that is a war. When they choose destruction over peace, cruelty over benevolence, and corruption over purity... that is war.\" \"Peace, benevolence, and purity... is that your wish for the world?\" Estes did not reply. The outstretched branches of the Tree of Life wrapped around him, and he fell back into deep slumber. This time he would not awaken again for many years. Long enough for Miya to grow from a little girl, who couldn't even reach the branches of the Tree of Life, into a fearless warrior and protector of the Moonlit Forest.",
+        "Miya stood atop the trees and scouted the enemy incursion. A warband of orcs and demons had just broken through the border, inflicting a wound on the Lunar Aegis that caused the Tree of Life to shake. With a draw of her bow, three silvery beams of moonlight gracefully danced through the branches before swiftly slaying the leader and sending the rest fleeing in disarray. With the threat gone, the elves channeled the energy from the Tree of Life to repair the breach and restore the Aegis. Peace returned to the forest and all was well. Miya, nestled wearily in the trees, had assumed the responsibility of protecting the Moonlit Forest after her brother Estes went into slumber to preserve the energy of the Lunar Aegis. In the beginning, Estes would speak to Miya through the Tree of Life, and it was through these conversations that she learned of the peace, benevolence, and purity that her brother longed for. And in Estes's absence, Miya watched over the forest according to the last words he spoke. As she relaxed and put down her bow, Miya noticed that she had bruised her hand while dealing with the intruders. She began to recall the times when she practised archery while her brother studied nearby. As a somewhat stubborn child, Miya would often shoot her bow incessantly trying to hit a leaf or branch, until her fingers bled. Her brother would look up from his scroll and, with a wave of his hand, heal her wounds with the forest' magic. Perhaps Miya was too attached to the past. She often found herself longing for a time when she could still hide under her brother's protection. Miya snapped back to attention and clenched her fist. This was no time to dwell on the past. She knew the only direction for her was forward, for she had become the hope that her people looked to in these dire times. But Miya knew deep down she was only lying to herself. She turned a blind eye to the outside world as evil gained strength, and only acted when the enemy encroached on her lands. While this has kept the elves from war, how long would it last? Even a fool could see she was delaying the inevitable. A war that's never fought can never be won. But peace, benevolence, and purity were her brother's wishes. How could she willingly plunge her people into the horrors of war? She could not; she would not.",
+        "But war comes and goes as it wishes, and it would come suddenly for the Moon Elves one bloodstained dawn. The orc shock troops tore through the Aegis. But unlike previous attacks, the orcs seemed far more savage this time, as if they've been sent into a mindless bloodlust by dark magic. Black smoke permeated through the forest as the elves awoke to screams and the crackling of burning trees. Great pillars of smoke could be seen from the direction of the Tree of Life. War was here. \"Run! Get out of the forest! Our home is lost, save yourselves!\" Miya heard the desperate cries, and before she could act, most of her people were already fleeing in panic.",
+        "\"Brother... give me an answer!\" Miya made one last plea to the Tree of Life as smoke enveloped her, hoping for salvation, but the tree remained silent amidst the scorched Earth. Miya looked around at her home, the place where the first oracle emerged from the Tree of Life; the place where the elves first took root; the place where their branches grew into a great empire; the place where the last pure Moon Elves stood firm against the Abyss's corruption. This was their most sacred ground, blessed by the Moon Goddess herself, and Estes's hope for their future.",
+        "\"What is war...\" She finally found her answer. \"When we have been pushed to the brink of destruction and finally take up arms for our very survival, that is war. When we must defend our last home, the Moonlit Forest, at any cost, that is war.\" The Moon Elves heard Miya's words and looked back to their home. \"My people! We have suffered for too long... lived in a fear for too long. There is nowhere left for us to run. If the Moonlit Forest falls, then we will truly have lost everything. Who will stand with me one last time?\" At first, a few dozen elven warriors stepped out from the trees. Then hundreds more followed, holding swords, spears, and bows. As they rushed to Miya's side, their silver hair shimmered like cascading moonlight upon the battlefield. The Tree of Life, too, answered Miya's call. Using its precious energy, the tree spread its roots in all directions to smother the raging fires, and reinvigorated the Moon Elves for a final counter attack. The Moon Elves rushed out from the trees and caught the Abyss legion completely off guard. They quickly gained the upper hand and pressed their attack until every invader was driven out of the Moonlit Forest. The surviving orcs came to their senses as their bloodlust subsided, and gained a newfound respect for the elves.",
+        "\"I understand now, brother.\" \"Peace, benevolence, and purity are what you wished for, but if we lose our home, our way of life, then all our efforts will be for naught. If war is already upon our doorstep, then we will meet it head on. We are prepared to sacrifice everything for our home. Give me the strength, courage and faith to protect our people, and our homeland!\""
+      ],
+      "sideStory": [
+        "Main article: Time of Lunar Eclipse"
+      ],
+      "sections": {
+        "bio": [
+          "\"What is war, brother?\" \"When the races of the Land of Dawn turned on one another instead of embracing unity and mutual prosperity, that is war. When they invaded their neighbors and razed cities to the ground, that is a war. When they choose destruction over peace, cruelty over benevolence, and corruption over purity... that is war.\" \"Peace, benevolence, and purity... is that your wish for the world?\" Estes did not reply. The outstretched branches of the Tree of Life wrapped around him, and he fell back into deep slumber. This time he would not awaken again for many years. Long enough for Miya to grow from a little girl, who couldn't even reach the branches of the Tree of Life, into a fearless warrior and protector of the Moonlit Forest.",
+          "Miya stood atop the trees and scouted the enemy incursion. A warband of orcs and demons had just broken through the border, inflicting a wound on the Lunar Aegis that caused the Tree of Life to shake. With a draw of her bow, three silvery beams of moonlight gracefully danced through the branches before swiftly slaying the leader and sending the rest fleeing in disarray. With the threat gone, the elves channeled the energy from the Tree of Life to repair the breach and restore the Aegis. Peace returned to the forest and all was well. Miya, nestled wearily in the trees, had assumed the responsibility of protecting the Moonlit Forest after her brother Estes went into slumber to preserve the energy of the Lunar Aegis. In the beginning, Estes would speak to Miya through the Tree of Life, and it was through these conversations that she learned of the peace, benevolence, and purity that her brother longed for. And in Estes's absence, Miya watched over the forest according to the last words he spoke. As she relaxed and put down her bow, Miya noticed that she had bruised her hand while dealing with the intruders. She began to recall the times when she practised archery while her brother studied nearby. As a somewhat stubborn child, Miya would often shoot her bow incessantly trying to hit a leaf or branch, until her fingers bled. Her brother would look up from his scroll and, with a wave of his hand, heal her wounds with the forest' magic. Perhaps Miya was too attached to the past. She often found herself longing for a time when she could still hide under her brother's protection. Miya snapped back to attention and clenched her fist. This was no time to dwell on the past. She knew the only direction for her was forward, for she had become the hope that her people looked to in these dire times. But Miya knew deep down she was only lying to herself. She turned a blind eye to the outside world as evil gained strength, and only acted when the enemy encroached on her lands. While this has kept the elves from war, how long would it last? Even a fool could see she was delaying the inevitable. A war that's never fought can never be won. But peace, benevolence, and purity were her brother's wishes. How could she willingly plunge her people into the horrors of war? She could not; she would not.",
+          "But war comes and goes as it wishes, and it would come suddenly for the Moon Elves one bloodstained dawn. The orc shock troops tore through the Aegis. But unlike previous attacks, the orcs seemed far more savage this time, as if they've been sent into a mindless bloodlust by dark magic. Black smoke permeated through the forest as the elves awoke to screams and the crackling of burning trees. Great pillars of smoke could be seen from the direction of the Tree of Life. War was here. \"Run! Get out of the forest! Our home is lost, save yourselves!\" Miya heard the desperate cries, and before she could act, most of her people were already fleeing in panic.",
+          "\"Brother... give me an answer!\" Miya made one last plea to the Tree of Life as smoke enveloped her, hoping for salvation, but the tree remained silent amidst the scorched Earth. Miya looked around at her home, the place where the first oracle emerged from the Tree of Life; the place where the elves first took root; the place where their branches grew into a great empire; the place where the last pure Moon Elves stood firm against the Abyss's corruption. This was their most sacred ground, blessed by the Moon Goddess herself, and Estes's hope for their future.",
+          "\"What is war...\" She finally found her answer. \"When we have been pushed to the brink of destruction and finally take up arms for our very survival, that is war. When we must defend our last home, the Moonlit Forest, at any cost, that is war.\" The Moon Elves heard Miya's words and looked back to their home. \"My people! We have suffered for too long... lived in a fear for too long. There is nowhere left for us to run. If the Moonlit Forest falls, then we will truly have lost everything. Who will stand with me one last time?\" At first, a few dozen elven warriors stepped out from the trees. Then hundreds more followed, holding swords, spears, and bows. As they rushed to Miya's side, their silver hair shimmered like cascading moonlight upon the battlefield. The Tree of Life, too, answered Miya's call. Using its precious energy, the tree spread its roots in all directions to smother the raging fires, and reinvigorated the Moon Elves for a final counter attack. The Moon Elves rushed out from the trees and caught the Abyss legion completely off guard. They quickly gained the upper hand and pressed their attack until every invader was driven out of the Moonlit Forest. The surviving orcs came to their senses as their bloodlust subsided, and gained a newfound respect for the elves.",
+          "\"I understand now, brother.\" \"Peace, benevolence, and purity are what you wished for, but if we lose our home, our way of life, then all our efforts will be for naught. If war is already upon our doorstep, then we will meet it head on. We are prepared to sacrifice everything for our home. Give me the strength, courage and faith to protect our people, and our homeland!\""
+        ],
+        "side story": [
+          "Main article: Time of Lunar Eclipse"
+        ]
+      }
+    },
+    "infobox": {
+      "main": {
+        "title": "Miya\"Moonlight Archer\"",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png",
+        "data": {
+          "Release date": "2016",
+          "Role": "Marksman",
+          "Specialty": "Finisher/Damage",
+          "Lane Recc.": "Gold Lane",
+          "Price": "10800 or 399",
+          "Skill resource": "Mana",
+          "Damage type": "Physical",
+          "Basic attack type": "Ranged",
+          "Durability": "1",
+          "Offense": "7",
+          "Control effects": "4",
+          "Difficulty": "1"
+        },
+        "sections": [
+          {
+            "title": "Ratings (1–10)",
+            "items": [
+              {
+                "label": "Durability",
+                "value": "1",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Offense",
+                "value": "7",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Control effects",
+                "value": "4",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Difficulty",
+                "value": "1",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Website",
+            "items": [
+              {
+                "label": "",
+                "value": "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com | MLBB China hero page",
+                "list": [
+                  "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com",
+                  "MLBB China hero page"
+                ],
+                "links": [
+                  {
+                    "label": "www.mobilelegends.com",
+                    "url": "https://www.mobilelegends.com/hero/detail?heroid=1"
+                  },
+                  {
+                    "label": "m.mobilelegends.com",
+                    "url": "https://m.mobilelegends.com/hero/detail?heroid=1"
+                  },
+                  {
+                    "label": "new.mobilelegends.com",
+                    "url": "https://new.mobilelegends.com/hero/detail?heroid=1"
+                  },
+                  {
+                    "label": "MLBB China hero page",
+                    "url": "https://moba.moonton.com/hero/1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Main",
+            "items": [
+              {
+                "label": "Release date",
+                "value": "2016",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Role",
+                "value": "Marksman",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Specialty",
+                "value": "Finisher/Damage",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Lane Recc.",
+                "value": "Gold Lane",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Price",
+                "value": "10800 or 399",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Skill resource",
+                "value": "Mana",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Damage type",
+                "value": "Physical",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Basic attack type",
+                "value": "Ranged",
+                "list": [],
+                "links": []
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "www.mobilelegends.com",
+            "url": "https://www.mobilelegends.com/hero/detail?heroid=1"
+          },
+          {
+            "label": "m.mobilelegends.com",
+            "url": "https://m.mobilelegends.com/hero/detail?heroid=1"
+          },
+          {
+            "label": "new.mobilelegends.com",
+            "url": "https://new.mobilelegends.com/hero/detail?heroid=1"
+          },
+          {
+            "label": "MLBB China hero page",
+            "url": "https://moba.moonton.com/hero/1"
+          }
+        ]
+      },
+      "story": {
+        "title": "Miya",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Miya_teaser.jpg",
+        "data": {
+          "Alias": "Moonlight Archer | Priestess of the Moon",
+          "Chinese Name": "米娅 (mǐyà)",
+          "Internal name": "gongjianshou (弓箭手, “archer”)",
+          "Birthday": "September 6 (Virgo)",
+          "Born": "Moonlit Forest, Azrya Woodlands",
+          "Age": "Immortal",
+          "Gender": "Female",
+          "Species": "Moon elf",
+          "Occupation": "Priestess",
+          "Affiliation": "Lunar Temple | Moniyan Empire | The Abyss (enemies)",
+          "Weapons": "Silver bow and arrow",
+          "Abilities": "Summons Moonlight Shadows and Moon Eclipse | Invisibility",
+          "Battles fought": "Invasion of Moonlit Forest",
+          "Website": "Legends of Dawn hero page | Miya Mastery Code",
+          "English": "Feena Glynn (2017–2020) | Christina Clark (2020–present)",
+          "Japanese": "Morisaki Miho (森嵜 美穂)",
+          "Indonesian": "Siti Balqis",
+          "Arabic": "Asia Nabulsi",
+          "Portuguese": "Michelle Zampieri",
+          "Russian": "Shcherbakova Paulina",
+          "Turkish": "Zeynep Acehan",
+          "Spanish": "Jessica Ángeles",
+          "Chinese": "Youwu Zhang (幽舞越山)"
+        },
+        "sections": [
+          {
+            "title": "Relationships",
+            "items": [
+              {
+                "label": "",
+                "value": "Estes (older brother) | Alucard (love interest) | Alice, Balmond (enemies)",
+                "list": [
+                  "Estes (older brother)",
+                  "Alucard (love interest)",
+                  "Alice, Balmond (enemies)"
+                ],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Voiced by",
+            "items": [
+              {
+                "label": "English",
+                "value": "Feena Glynn (2017–2020) | Christina Clark (2020–present)",
+                "list": [],
+                "links": [
+                  {
+                    "label": "Feena Glynn",
+                    "url": "https://www.imdb.com/find?q=nm8441206"
+                  }
+                ]
+              },
+              {
+                "label": "Japanese",
+                "value": "Morisaki Miho (森嵜 美穂)",
+                "list": [],
+                "links": [
+                  {
+                    "label": "Morisaki Miho (森嵜 美穂)",
+                    "url": "https://en.wikipedia.org/wiki/ja:%E6%A3%AE%E5%B5%9C%E7%BE%8E%E7%A9%82"
+                  }
+                ]
+              },
+              {
+                "label": "Indonesian",
+                "value": "Siti Balqis",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Arabic",
+                "value": "Asia Nabulsi",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Portuguese",
+                "value": "Michelle Zampieri",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Russian",
+                "value": "Shcherbakova Paulina",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Turkish",
+                "value": "Zeynep Acehan",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Spanish",
+                "value": "Jessica Ángeles",
+                "list": [],
+                "links": [
+                  {
+                    "label": "Jessica Ángeles",
+                    "url": "https://www.imdb.com/find?q=nm8858398"
+                  }
+                ]
+              },
+              {
+                "label": "Chinese",
+                "value": "Youwu Zhang (幽舞越山)",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "In-story information",
+            "items": [
+              {
+                "label": "Alias",
+                "value": "Moonlight Archer | Priestess of the Moon",
+                "list": [
+                  "Moonlight Archer",
+                  "Priestess of the Moon"
+                ],
+                "links": []
+              },
+              {
+                "label": "Chinese Name",
+                "value": "米娅 (mǐyà)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Internal name",
+                "value": "gongjianshou (弓箭手, “archer”)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Birthday",
+                "value": "September 6 (Virgo)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Born",
+                "value": "Moonlit Forest, Azrya Woodlands",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Age",
+                "value": "Immortal",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Gender",
+                "value": "Female",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Species",
+                "value": "Moon elf",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Occupation",
+                "value": "Priestess",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Affiliation",
+                "value": "Lunar Temple | Moniyan Empire | The Abyss (enemies)",
+                "list": [
+                  "Lunar Temple",
+                  "Moniyan Empire",
+                  "The Abyss (enemies)"
+                ],
+                "links": []
+              },
+              {
+                "label": "Weapons",
+                "value": "Silver bow and arrow",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Abilities",
+                "value": "Summons Moonlight Shadows and Moon Eclipse | Invisibility",
+                "list": [
+                  "Summons Moonlight Shadows and Moon Eclipse",
+                  "Invisibility"
+                ],
+                "links": []
+              },
+              {
+                "label": "Battles fought",
+                "value": "Invasion of Moonlit Forest",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Website",
+                "value": "Legends of Dawn hero page | Miya Mastery Code",
+                "list": [
+                  "Legends of Dawn hero page",
+                  "Miya Mastery Code"
+                ],
+                "links": [
+                  {
+                    "label": "Legends of Dawn hero page",
+                    "url": "https://play.mobilelegends.com/lore/hero/Miya"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Legends of Dawn hero page",
+            "url": "https://play.mobilelegends.com/lore/hero/Miya"
+          },
+          {
+            "label": "Feena Glynn",
+            "url": "https://www.imdb.com/find?q=nm8441206"
+          },
+          {
+            "label": "Morisaki Miho (森嵜 美穂)",
+            "url": "https://en.wikipedia.org/wiki/ja:%E6%A3%AE%E5%B5%9C%E7%BE%8E%E7%A9%82"
+          },
+          {
+            "label": "Jessica Ángeles",
+            "url": "https://www.imdb.com/find?q=nm8858398"
+          }
+        ]
+      }
+    },
+    "relationships": [
+      "Estes (older brother)",
+      "Alucard (love interest)",
+      "Alice, Balmond (enemies)"
+    ],
+    "voicedBy": {
+      "English": "Feena Glynn (2017–2020) | Christina Clark (2020–present)",
+      "Japanese": "Morisaki Miho (森嵜 美穂)",
+      "Indonesian": "Siti Balqis",
+      "Arabic": "Asia Nabulsi",
+      "Portuguese": "Michelle Zampieri",
+      "Russian": "Shcherbakova Paulina",
+      "Turkish": "Zeynep Acehan",
+      "Spanish": "Jessica Ángeles",
+      "Chinese": "Youwu Zhang (幽舞越山)"
+    },
+    "links": [
+      {
+        "label": "www.mobilelegends.com",
+        "url": "https://www.mobilelegends.com/hero/detail?heroid=1"
+      },
+      {
+        "label": "m.mobilelegends.com",
+        "url": "https://m.mobilelegends.com/hero/detail?heroid=1"
+      },
+      {
+        "label": "new.mobilelegends.com",
+        "url": "https://new.mobilelegends.com/hero/detail?heroid=1"
+      },
+      {
+        "label": "MLBB China hero page",
+        "url": "https://moba.moonton.com/hero/1"
+      },
+      {
+        "label": "Legends of Dawn hero page",
+        "url": "https://play.mobilelegends.com/lore/hero/Miya"
+      },
+      {
+        "label": "Feena Glynn",
+        "url": "https://www.imdb.com/find?q=nm8441206"
+      },
+      {
+        "label": "Morisaki Miho (森嵜 美穂)",
+        "url": "https://en.wikipedia.org/wiki/ja:%E6%A3%AE%E5%B5%9C%E7%BE%8E%E7%A9%82"
+      },
+      {
+        "label": "Jessica Ángeles",
+        "url": "https://www.imdb.com/find?q=nm8858398"
+      }
+    ]
+  }
+]

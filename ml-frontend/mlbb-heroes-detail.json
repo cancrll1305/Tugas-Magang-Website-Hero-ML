@@ -1,0 +1,2615 @@
+[
+  {
+    "name": "Julian",
+    "slug": "julian",
+    "url": "https://mobile-legends.fandom.com/wiki/Julian",
+    "title": "Julian \"Scarlet Raven\"",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png",
+    "lead": {
+      "quote": "“ A Raven assassin of the Church of Light, a young boy who's in search of his home... ” — Mobile Legends: Bang Bang",
+      "summary": [
+        "Julian, the Scarlet Raven, is a hero in Mobile Legends: Bang Bang.",
+        "He is the fourth and the last hero to be introduced as a member of Forsaken Light. He was released as a part of the 515 M-World. Players had a chance to redeem the hero for free for a limited time."
+      ]
+    },
+    "info": {
+      "Release date": "24 May 2022",
+      "Role": "Assassin/ Fighter",
+      "Specialty": "Chase/Magic Damage",
+      "Lane Recc.": "Jungle/ EXP Lane",
+      "Price": "32000 or 599",
+      "Skill resource": "Mana",
+      "Damage type": "Magic",
+      "Basic attack type": "Melee",
+      "Durability": "6",
+      "Offense": "6",
+      "Control effects": "7",
+      "Difficulty": "2",
+      "Alias": "Scarlet Raven",
+      "Chinese Name": "游镰 (yóulián)",
+      "Internal name": "julian",
+      "Birthday": "December 28 (Capricorn)",
+      "Born": "Moniyan Empire",
+      "Age": "16",
+      "Gender": "Male",
+      "Species": "Human",
+      "Occupation": "Assassin (previously)",
+      "Affiliation": "Forsaken Light | Church of Light (previously) | Free Smiths' Guild (previously)",
+      "Weapons": "Flying scythes | Flying swords | Bladed chains",
+      "Website": "Legends of Dawn hero page | Julian Mastery Code",
+      "Likes": "Being a lone wolf, the smell of burning charcoal",
+      "Japanese": "Noda Tetsurou (野田 てつろう)",
+      "Indonesian": "Amar Saifullah"
+    },
+    "stats": [
+      {
+        "attribute": "HP",
+        "level1": "2878",
+        "level15": "5664",
+        "growth": "199"
+      },
+      {
+        "attribute": "HP Regen",
+        "level1": "7.8",
+        "level15": "14.2",
+        "growth": "0.4571"
+      },
+      {
+        "attribute": "Mana",
+        "level1": "500",
+        "level15": "1900",
+        "growth": "100"
+      },
+      {
+        "attribute": "Mana Regen",
+        "level1": "4",
+        "level15": "6.8",
+        "growth": "0.2"
+      },
+      {
+        "attribute": "Physical Attack",
+        "level1": "128",
+        "level15": "257",
+        "growth": "9.21"
+      },
+      {
+        "attribute": "Physical Defense (Physical Damage Reduced)",
+        "level1": "24 (16.7%)",
+        "level15": "74 (38.1%)",
+        "growth": "3.5714"
+      },
+      {
+        "attribute": "Magic Defense (Magic Damage Reduced)",
+        "level1": "15 (11.1%)",
+        "level15": "38 (24.1%)",
+        "growth": "1.6429"
+      },
+      {
+        "attribute": "Attack Speed",
+        "level1": "0.99",
+        "level15": "1.39",
+        "growth": "0.0286"
+      }
+    ],
+    "skills": [
+      {
+        "type": "Passive",
+        "name": "Smith's Legacy",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Smith%27s_Legacy.png",
+        "tags": [
+          "Buff"
+        ],
+        "metadata": [],
+        "description": "After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9–6 seconds cooldown (decreases with his level.\nAfter casting any skill, his Basic Attacks within the next 5 seconds to deal 100 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage and pull the target toward him. Casting another skill extends the duration.\nJulian gains 15% extra Hybrid Lifesteal for 5 seconds each time he hits an enemy hero with his skills (up to 3 stacks).",
+        "terms": [
+          {
+            "label": "Magic Basic Attack",
+            "description": "Deal Magic DMG to enemies. It can trigger ATK Effect and Magic Lifesteal."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Stack scaling",
+            "headers": [
+              "Property",
+              "1",
+              "2",
+              "3"
+            ],
+            "rows": [
+              [
+                "Hybrid Lifesteal",
+                "15%"
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "\"Third skill\" refers to the remaining unused skill, which is enhanced, not \"Skill 3\".",
+          "A skill that has been casted will undergo a 5-second timer and casting second skill will reset the cooldown timer. If the timer ends after failing to cast the second or third skill, it will reset the skill (s) cooldown.",
+          "If two different abilities are already cast and on cooldown, and the remaining ability which has not been learned is learned, such an ability will be enhanced and resets the cooldown timer of the other two abilities."
+        ],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Smith%27s_Legacy_%28Jujutsu_Kaisen%29.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Smith%27s_Legacy_%28HUNTER%C3%97HUNTER%29.png"
+        ],
+        "variantLabel": null
+      },
+      {
+        "type": "Skill 1",
+        "name": "Scythe",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Scythe.png",
+        "tags": [
+          "Damage",
+          "Slow"
+        ],
+        "metadata": [],
+        "description": "Julian hurls a flying scythe in the target direction, dealing 380–700 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1 second.\nThe scythe disappears upon hitting a non-minion enemy.",
+        "terms": [
+          {
+            "label": "Magic Skill",
+            "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+          },
+          {
+            "label": "Movement Speed",
+            "description": "Movement Speed on the battlefield. Usually Calculated and Actual Movement Speed is equal. But when Movement Speed is below 230 or over 420 both Slowdown and Speedup Effect will decay. Calculated Movement Speed = Basic Movement Speed × (100% + All Speedup Effect% - All Slowdown Effect%)."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "10.0",
+                "9.75",
+                "9.5",
+                "9.25",
+                "9.0",
+                "8.75",
+                "8.5",
+                "8.25",
+                "8.0",
+                "7.75",
+                "7.5",
+                "7.25",
+                "7.0",
+                "6.75",
+                "6.5"
+              ],
+              [
+                "Mana Cost",
+                "30",
+                "35",
+                "40",
+                "45",
+                "50"
+              ],
+              [
+                "Base Damage",
+                "380",
+                "460",
+                "540",
+                "620",
+                "700"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Scythe_%28Jujutsu_Kaisen%29.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Scythe_%28HUNTER%C3%97HUNTER%29.png"
+        ],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Skill 1",
+            "name": "Scythe",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Scythe.png",
+            "tags": [
+              "Damage",
+              "Slow"
+            ],
+            "metadata": [],
+            "description": "Julian hurls a flying scythe in the target direction, dealing 380–700 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1 second.\nThe scythe disappears upon hitting a non-minion enemy.",
+            "terms": [
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              },
+              {
+                "label": "Movement Speed",
+                "description": "Movement Speed on the battlefield. Usually Calculated and Actual Movement Speed is equal. But when Movement Speed is below 230 or over 420 both Slowdown and Speedup Effect will decay. Calculated Movement Speed = Basic Movement Speed × (100% + All Speedup Effect% - All Slowdown Effect%)."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "30",
+                    "35",
+                    "40",
+                    "45",
+                    "50"
+                  ],
+                  [
+                    "Base Damage",
+                    "380",
+                    "460",
+                    "540",
+                    "620",
+                    "700"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Scythe_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Scythe_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Skill 1",
+            "name": "Enhanced Scythe",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Enhanced_Scythe.png",
+            "tags": [
+              "Damage",
+              "Slow"
+            ],
+            "metadata": [],
+            "description": "Julian hurls enhanced scythes in the target direction, dealing 380–700 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 50% for 1 second. Upon hitting a non-minion enemy or reaching the maximum distance, the scythes will continue to fly at a lower speed, dealing 65–185 (+30% Total Magic Power) Magic Damage every 0.3 seconds to nearby enemies (up to 9 times).",
+            "terms": [
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              },
+              {
+                "label": "Movement Speed",
+                "description": "Movement Speed on the battlefield. Usually Calculated and Actual Movement Speed is equal. But when Movement Speed is below 230 or over 420 both Slowdown and Speedup Effect will decay. Calculated Movement Speed = Basic Movement Speed × (100% + All Speedup Effect% - All Slowdown Effect%)."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100"
+                  ],
+                  [
+                    "Base Damage",
+                    "380",
+                    "460",
+                    "540",
+                    "620",
+                    "700"
+                  ],
+                  [
+                    "Continuous Damage",
+                    "65",
+                    "95",
+                    "120",
+                    "155",
+                    "185"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Enhanced_Scythe_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Enhanced_Scythe_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Enhanced"
+          }
+        ]
+      },
+      {
+        "type": "Skill 2",
+        "name": "Sword",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Sword.png",
+        "tags": [
+          "Mobility",
+          "Damage"
+        ],
+        "metadata": [],
+        "description": "Julian summons a flying sword and dashes in the target direction, dealing 400–540 (+80% Total Magic Power) Magic Damage to enemies along the way.",
+        "terms": [
+          {
+            "label": "Blink",
+            "description": "Movement ability that can pass through obstacles."
+          },
+          {
+            "label": "Magic Skill",
+            "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "10.0",
+                "9.75",
+                "9.5",
+                "9.25",
+                "9.0",
+                "8.75",
+                "8.5",
+                "8.25",
+                "8.0",
+                "7.75",
+                "7.5",
+                "7.25",
+                "7.0",
+                "6.75",
+                "6.5"
+              ],
+              [
+                "Mana Cost",
+                "30",
+                "35",
+                "40",
+                "45",
+                "50"
+              ],
+              [
+                "Base Damage",
+                "400",
+                "435",
+                "470",
+                "505",
+                "540"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Sword_%28Jujutsu_Kaisen%29.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Sword_%28HUNTER%C3%97HUNTER%29.png"
+        ],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Skill 2",
+            "name": "Sword",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Sword.png",
+            "tags": [
+              "Mobility",
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Julian summons a flying sword and dashes in the target direction, dealing 400–540 (+80% Total Magic Power) Magic Damage to enemies along the way.",
+            "terms": [
+              {
+                "label": "Blink",
+                "description": "Movement ability that can pass through obstacles."
+              },
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "30",
+                    "35",
+                    "40",
+                    "45",
+                    "50"
+                  ],
+                  [
+                    "Base Damage",
+                    "400",
+                    "435",
+                    "470",
+                    "505",
+                    "540"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Sword_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Sword_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Skill 2",
+            "name": "Enhanced Sword",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Enhanced_Sword.png",
+            "tags": [
+              "Mobility",
+              "Conceal"
+            ],
+            "metadata": [],
+            "description": "Julian summons a large number of flying swords and dashes in the target direction, dealing 60–100 (+20% Total Magic Power) Magic Damage every 0.1 seconds to enemies along the way (up to 9 times). Julian's untargetable and invisible during the dash. [After a short delay, he'll reappear at the farthest end.]",
+            "terms": [
+              {
+                "label": "Blink",
+                "description": "Movement ability that can pass through obstacles."
+              },
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100"
+                  ],
+                  [
+                    "Continuous Damage",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Enhanced_Sword_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Enhanced_Sword_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Enhanced"
+          }
+        ]
+      },
+      {
+        "type": "Skill 3",
+        "name": "Chain",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Chain.png",
+        "tags": [
+          "CC",
+          "Damage"
+        ],
+        "metadata": [],
+        "description": "Julian casts chains at the target location, dealing 300–440 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2 seconds.",
+        "terms": [
+          {
+            "label": "Immobilized",
+            "description": "A state that prevents a target from moving. The target can't use Blink within the duration."
+          },
+          {
+            "label": "Magic Skill",
+            "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+          }
+        ],
+        "tables": [
+          {
+            "title": "Icon variants",
+            "headers": [],
+            "rows": []
+          },
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "10.0",
+                "9.75",
+                "9.5",
+                "9.25",
+                "9.0",
+                "8.75",
+                "8.5",
+                "8.25",
+                "8.0",
+                "7.75",
+                "7.5",
+                "7.25",
+                "7.0",
+                "6.75",
+                "6.5"
+              ],
+              [
+                "Mana Cost",
+                "30",
+                "35",
+                "40",
+                "45",
+                "50"
+              ],
+              [
+                "Base Damage",
+                "300",
+                "335",
+                "370",
+                "405",
+                "440"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [
+          "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Chain_%28Jujutsu_Kaisen%29.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+          "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Chain_%28HUNTER%C3%97HUNTER%29.png"
+        ],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Skill 3",
+            "name": "Chain",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Chain.png",
+            "tags": [
+              "CC",
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Julian casts chains at the target location, dealing 300–440 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2 seconds.",
+            "terms": [
+              {
+                "label": "Immobilized",
+                "description": "A state that prevents a target from moving. The target can't use Blink within the duration."
+              },
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "30",
+                    "35",
+                    "40",
+                    "45",
+                    "50"
+                  ],
+                  [
+                    "Base Damage",
+                    "300",
+                    "335",
+                    "370",
+                    "405",
+                    "440"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Chain_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Chain_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Skill 3",
+            "name": "Enhanced Chain",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Enhanced_Chain.png",
+            "tags": [
+              "CC",
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Julian casts chains at the target location, dealing 40–60 (+10% Total Magic Power) Magic Damage every 0.2 seconds to enemies hit and slowing them by 30%.\nEnemies that are still in the area at the end of the skill duration will take 250–370 extra  Magic Damage and be knocked airborne for 0.8 seconds.",
+            "terms": [
+              {
+                "label": "Airborne",
+                "description": "High level Crowd Control: Prevents a target from moving, and using Basic Attacks and skills. Can interrupt a large number of skills, and Blink/Charge effects."
+              },
+              {
+                "label": "Magic Skill",
+                "description": "Deal Magic DMG to enemies. Triggers Spell Vamp."
+              }
+            ],
+            "tables": [
+              {
+                "title": "Icon variants",
+                "headers": [],
+                "rows": []
+              },
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10",
+                  "11",
+                  "12",
+                  "13",
+                  "14",
+                  "15"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "10.0",
+                    "9.75",
+                    "9.5",
+                    "9.25",
+                    "9.0",
+                    "8.75",
+                    "8.5",
+                    "8.25",
+                    "8.0",
+                    "7.75",
+                    "7.5",
+                    "7.25",
+                    "7.0",
+                    "6.75",
+                    "6.5"
+                  ],
+                  [
+                    "Mana Cost",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100"
+                  ],
+                  [
+                    "Continuous Damage",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100"
+                  ]
+                ]
+              }
+            ],
+            "notes": [
+              "Does not go on cooldown if being interrupted during the cast delay."
+            ],
+            "iconVariants": [
+              "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Enhanced_Chain_%28Jujutsu_Kaisen%29.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/HUNTER%C3%97HUNTER_Skin_Tag.png",
+              "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Enhanced_Chain_%28HUNTER%C3%97HUNTER%29.png"
+            ],
+            "variantLabel": "Enhanced"
+          }
+        ]
+      }
+    ],
+    "skins": [
+      {
+        "name": "Scarlet Raven",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Julian_%28Scarlet_Raven%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Silent Edge",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Julian_Silent_Edge.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Megumi Fushiguro",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Julian_%28Megumi_Fushiguro%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Meowkin Tracker",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Kurapika",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Julian_%28Kurapika%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Itachi Uchiha",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Julian_%28Itachi_Uchiha%29.jpg",
+        "category": "Splash art"
+      }
+    ],
+    "gallery": {
+      "Splash art": [
+        {
+          "name": "Scarlet Raven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Julian_%28Scarlet_Raven%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Silent Edge",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Julian_Silent_Edge.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Julian_%28Megumi_Fushiguro%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Julian_%28Meowkin_Tracker%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Kurapika",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Julian_%28Kurapika%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Julian_%28Itachi_Uchiha%29.jpg",
+          "category": "Splash art"
+        }
+      ],
+      "Avatar icons": [
+        {
+          "name": "Scarlet Raven",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Silent Edge",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Meowkin Tracker",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1166-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Kurapika",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Itachi Uchiha",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero1168-icon.png",
+          "category": "Avatar icons"
+        }
+      ]
+    },
+    "story": {
+      "quote": "“ A Raven assassin of the Church of Light, a young boy who's in search of his home… ”",
+      "intro": [
+        "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age. The poor child was then adopted by the archbishop, trained and molded to be an elite member of the Ravens, a secret force that listened only to the archbishop's orders. Later, on his mission to \"purify\" Xavier, he caught a glimpse of the secret buried in time…"
+      ],
+      "bio": [],
+      "sideStory": [],
+      "sections": {
+        "awakening: nirvana": [
+          "On a winter's night ten years ago, a snowstorm raged over the citadel of the Free Smiths' Guild.",
+          "The Free Smiths' Guild by Terizla was accused of pledging allegiance to the Abyss and wiped out by the Church of Light. The sole survivor was the leader's six-year-old son who wandered on the streets for days until the Church found the starving boy. The Archbishop saw the special talent in him, granted him the name of an ancient saint—Julian, and sent him to the special academy in the Church of Light—Raven's Nest.",
+          "Standing on top of a cliff, the school was home to orphans with special talents. The Archbishop told them that children abandoned by their families were not worthy of love, but he would give them love and rebirth, which must be repaid with gratitude and loyalty: they must become Ravens—a secret special force that answers directly to the Archbishop and cleanses the world of all heretics and evils for the Lord of Light.",
+          "Julian forced himself to forget his past, but no matter how hard he tried, he couldn't erase the nightmare from his mind: his mother left him behind and begged for mercy for herself, not even sparing a look at him...",
+          "Julian also remembered a strange gesture along with the nightmare: he'd always push the corners of his mouth up with his hands and force himself to smile subconsciously. But other than that, he couldn't remember anything else. He didn't know who taught him to do that or what happened back then.",
+          "The children at the Raven's Nest were called Nestlings. They would do strenuous chores and study tomes and battle skills during the day, and then stay in their separate caves for grace and rest at night.",
+          "The lives of Nestlings are lonely. But Julian made a family with the other guests in his cave: a rodent that loves bread crumbs, a chirping sparrow and a goat he took care of. On every windy night, they would listen to Julian talking about his loneliness and doubts. To him, they were his family who didn't speak.",
+          "With their company, Julian worked diligently at the Academy and was one of the most excellent students in labor, studying and fighting. He was praised by the Archbishop but did not notice another Nestling's jealousy towards him.",
+          "One night, Julian retired to his bedroom, only to find three stiff animal carcasses upon the stone bed.",
+          "Behind him came the other Nestling's evil snickers, \"Rodents stand for unfaithfulness, sparrows ignorance, and goats weakness... Julian, you are not worthy of love or rebirth from the Church!\"",
+          "His vision blurred in a sudden rush of blood, as he clenched his fists, his mind blank.",
+          "After a bloody fight, Julian was pulled away by members of the Church, and the Archbishop who happened to be there to review their work also arrived—there would be serious consequences. The severely-injured Nestling was lying on the ground, unconscious. Julian almost lost his balance against the wall, as if his heart had fallen into icy-cold water.",
+          "He closed his eyes, awaiting the Archbishop's punishment.",
+          "\"Jealousy... Such a filthy, weak Nestling. Excommunicate this failure!\"",
+          "The punishment was more terrifying than execution! But how would the Archbishop punish Julian? To Julian's surprise, the Archbishop patted him on the shoulder.",
+          "\"Julian, you did good. And you cleansed those things in that corner, didn't you?\"",
+          "Julian was at a loss for words. He looked over at the carcasses in the corner: they were filthy, cold and insignificant. The other Nestling's words were still echoing in his ears—Julian, you are not worthy of love or rebirth from the Church!",
+          "\"Didn't you!?\" The Archbishop's voice was a pair of hands clenching around his neck, as Julian slightly quivered. After what felt like a century, he lifted the corners of his mouth and forced a stiff smile on his cheeks.",
+          "A sliver of the morning light shined from the east, half of Julian's face in the sunshine while the other half hidden in the dark. He nodded slightly.",
+          "\"...Yes. I killed them, for my rebirth.\"",
+          "The Archbishop petted Julian on the head, slowly chanting the scripture, \"The fear and dread of you shall be upon every beast and fowl. Your verdict be accepted by every soul that walks the earth. And every path Light shines upon, by your hand shall they be drawn.\"",
+          "A bizarre light glowed in Julian's dark pupils. He raised his hand to summon his weapon, proving himself in front of the Archbishop.",
+          "Julian knew he would become the strongest Raven of them all.",
+          "Years passed, and at the age of 15, these Nestlings faced their final tests before becoming Ravens: some infiltrated the enemy base, some scouted the Abyss, some eliminated heretics... After the perilous challenges, even the most elite Nestlings would be worn to a frazzle. But once they passed the tests, they would return to the Church of Light. The bright spire would be ahead of them, as their faces were lit with hope—just one step before rebirth!",
+          "But this was only the start of the hardest test.",
+          "At the turn in front of the Church, someone would call a Nestling by their birth name. If they couldn't help but turn around, they would be excommunicated and considered a heretic. This step was to test if a Nestling was loyal enough to forget all about the person they once were.",
+          "Julian passed the test. All these years, he had been living in fear of being abandoned by the Church and would even hear the Archbishop's words in dreams: A Raven must forget themselves! But... he was not a pure Raven. A voice at the back of his head had always been resisting the Archbishop's voice. He had no idea what the voice was and was confused about the two conflicting voices.",
+          "Late at night, Julian once again made that gesture: lifting the corners of his mouth up for a forced smile.",
+          "Why should he smile? Julian didn't know, but it didn't matter because he was the strongest Raven.",
+          "When Xavier blew open the city gate and fled with Yin and Melissa, the Archbishop sent Julian on his mission: poor Xavier's mind had been poisoned by heretics, and he should be given mercy. Julian chased them for seven days on mountains and finally caught up with Xavier and the other two who had exhausted their strength.",
+          "A battle was inevitable, and there was no clear winner between the strongest Raven and the greatest Arbiter of Light. But by accident, Julian's Raven hood dropped, and at the sight of his red hair, Xavier was stunned for a moment as though he had recognized something. Then, he took Julian's next strike.",
+          "Xavier could fight no more but was still protecting Yin and Melissa. He laughed, \"It was you who came to cleanse me. Fine. After all, your mother...\"",
+          "Julian's weapon didn't fall. His eyes were wide open, \"You know about my past!?\"",
+          "Xavier hesitated for a moment before speaking the truth: on that snowy night, young Julian was hidden in a corner by his mother. She held Julian's face and forced a smile, saying, \"Stay here. Everything will be alright. When you don't know what to do... Smile ...\"",
+          "Scared, Julian held onto his mother before she cruelly shoved him back and ran out to lure the enemies away... After Julian's mother was killed by the Ravens, Xavier keenly noticed Julian hiding behind some crates.",
+          "Julian didn't know what was happening or what reaction he should have. In that very moment, he remembered how his mother lifted up the corners of his mouth.",
+          "He forced himself to make a trembling smile.",
+          "The smile tugged hard at Xavier's heartstrings, and so he left with the Ravens.",
+          "\"That is the truth.\"",
+          "The face of Julian's mother which he had forgotten about for ten years suddenly became clear, along with every wall in the Craftsmen's Union, the fires inside the furnaces, and the wooden toys his father gave him... Julian's hands shook violently. A Raven that found himself could no longer wield his sword without hesitation. His mother had loved him deeply and would even risk her life to prove it. He had never been abandoned by his family.",
+          "At that moment, Alice showed up at the entrance of the cave with demons. Xavier and the other two were gasping for breath after days of battle. It was at this desperate moment that Julian stood between them and Alice. He bought time for Xavier and the others to get across the rope bridge over the cliffs, before cutting off the bridge and facing Alice alone.",
+          "It wasn't protecting them in Julian's book. Eliminating heretics was one of the Ravens' missions, but it was not just a mission for Julian. He could only find Xavier and learn more about his past if he won this fight.",
+          "Despite the powerful demons in front of him, Julian still saw his mother's smile in his mind, and for the first time, his smile wasn't forced.",
+          "He finally found himself and also learned to smile."
+        ],
+        "anne": [
+          "Main article: Anne"
+        ],
+        "the awakening: truth": []
+      }
+    },
+    "infobox": {
+      "main": {
+        "title": "Julian\"Scarlet Raven\"",
+        "image": "",
+        "data": {
+          "Release date": "24 May 2022",
+          "Role": "Assassin/ Fighter",
+          "Specialty": "Chase/Magic Damage",
+          "Lane Recc.": "Jungle/ EXP Lane",
+          "Price": "32000 or 599",
+          "Skill resource": "Mana",
+          "Damage type": "Magic",
+          "Basic attack type": "Melee",
+          "Durability": "6",
+          "Offense": "6",
+          "Control effects": "7",
+          "Difficulty": "2"
+        },
+        "sections": [
+          {
+            "title": "Ratings (1–10)",
+            "items": [
+              {
+                "label": "Durability",
+                "value": "6",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Offense",
+                "value": "6",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Control effects",
+                "value": "7",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Difficulty",
+                "value": "2",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Website",
+            "items": [
+              {
+                "label": "",
+                "value": "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com | MLBB Hero Academy page | MLBB China hero page",
+                "list": [
+                  "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com",
+                  "MLBB Hero Academy page",
+                  "MLBB China hero page"
+                ],
+                "links": [
+                  {
+                    "label": "www.mobilelegends.com",
+                    "url": "https://www.mobilelegends.com/hero/detail?heroid=116"
+                  },
+                  {
+                    "label": "m.mobilelegends.com",
+                    "url": "https://m.mobilelegends.com/hero/detail?heroid=116"
+                  },
+                  {
+                    "label": "new.mobilelegends.com",
+                    "url": "https://new.mobilelegends.com/hero/detail?heroid=116"
+                  },
+                  {
+                    "label": "MLBB Hero Academy page",
+                    "url": "https://play.mobilelegends.com/heroacademy/?hero_id=62"
+                  },
+                  {
+                    "label": "MLBB China hero page",
+                    "url": "https://moba.moonton.com/hero/116"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Main",
+            "items": [
+              {
+                "label": "Release date",
+                "value": "24 May 2022",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Role",
+                "value": "Assassin/ Fighter",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Specialty",
+                "value": "Chase/Magic Damage",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Lane Recc.",
+                "value": "Jungle/ EXP Lane",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Price",
+                "value": "32000 or 599",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Skill resource",
+                "value": "Mana",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Damage type",
+                "value": "Magic",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Basic attack type",
+                "value": "Melee",
+                "list": [],
+                "links": []
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "www.mobilelegends.com",
+            "url": "https://www.mobilelegends.com/hero/detail?heroid=116"
+          },
+          {
+            "label": "m.mobilelegends.com",
+            "url": "https://m.mobilelegends.com/hero/detail?heroid=116"
+          },
+          {
+            "label": "new.mobilelegends.com",
+            "url": "https://new.mobilelegends.com/hero/detail?heroid=116"
+          },
+          {
+            "label": "MLBB Hero Academy page",
+            "url": "https://play.mobilelegends.com/heroacademy/?hero_id=62"
+          },
+          {
+            "label": "MLBB China hero page",
+            "url": "https://moba.moonton.com/hero/116"
+          }
+        ]
+      },
+      "story": {
+        "title": "Julian",
+        "image": "",
+        "data": {
+          "Alias": "Scarlet Raven",
+          "Chinese Name": "游镰 (yóulián)",
+          "Internal name": "julian",
+          "Birthday": "December 28 (Capricorn)",
+          "Born": "Moniyan Empire",
+          "Age": "16",
+          "Gender": "Male",
+          "Species": "Human",
+          "Occupation": "Assassin (previously)",
+          "Affiliation": "Forsaken Light | Church of Light (previously) | Free Smiths' Guild (previously)",
+          "Weapons": "Flying scythes | Flying swords | Bladed chains",
+          "Website": "Legends of Dawn hero page | Julian Mastery Code",
+          "Likes": "Being a lone wolf, the smell of burning charcoal",
+          "Japanese": "Noda Tetsurou (野田 てつろう)",
+          "Indonesian": "Amar Saifullah"
+        },
+        "sections": [
+          {
+            "title": "Personal profile",
+            "items": [
+              {
+                "label": "Likes",
+                "value": "Being a lone wolf, the smell of burning charcoal",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Relationships",
+            "items": [
+              {
+                "label": "",
+                "value": "Terizla (father) | Anne (mother, killed by Ravens) | Xavier, Yin, Melissa (Forsaken Light co-members) | Archbishop (former master) | Alice (enemy)",
+                "list": [
+                  "Terizla (father)",
+                  "Anne (mother, killed by Ravens)",
+                  "Xavier, Yin, Melissa (Forsaken Light co-members)",
+                  "Archbishop (former master)",
+                  "Alice (enemy)"
+                ],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Voiced by",
+            "items": [
+              {
+                "label": "Japanese",
+                "value": "Noda Tetsurou (野田 てつろう)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Indonesian",
+                "value": "Amar Saifullah",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "In-story information",
+            "items": [
+              {
+                "label": "Alias",
+                "value": "Scarlet Raven",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Chinese Name",
+                "value": "游镰 (yóulián)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Internal name",
+                "value": "julian",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Birthday",
+                "value": "December 28 (Capricorn)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Born",
+                "value": "Moniyan Empire",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Age",
+                "value": "16",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Gender",
+                "value": "Male",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Species",
+                "value": "Human",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Occupation",
+                "value": "Assassin (previously)",
+                "list": [
+                  "Assassin (previously)"
+                ],
+                "links": []
+              },
+              {
+                "label": "Affiliation",
+                "value": "Forsaken Light | Church of Light (previously) | Free Smiths' Guild (previously)",
+                "list": [
+                  "Forsaken Light",
+                  "Church of Light (previously)",
+                  "Free Smiths' Guild (previously)"
+                ],
+                "links": []
+              },
+              {
+                "label": "Weapons",
+                "value": "Flying scythes | Flying swords | Bladed chains",
+                "list": [
+                  "Flying scythes",
+                  "Flying swords",
+                  "Bladed chains"
+                ],
+                "links": []
+              },
+              {
+                "label": "Website",
+                "value": "Legends of Dawn hero page | Julian Mastery Code",
+                "list": [
+                  "Legends of Dawn hero page",
+                  "Julian Mastery Code"
+                ],
+                "links": [
+                  {
+                    "label": "Legends of Dawn hero page",
+                    "url": "https://play.mobilelegends.com/lore/hero/Julian"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Legends of Dawn hero page",
+            "url": "https://play.mobilelegends.com/lore/hero/Julian"
+          }
+        ]
+      }
+    },
+    "relationships": [
+      "Terizla (father)",
+      "Anne (mother, killed by Ravens)",
+      "Xavier, Yin, Melissa (Forsaken Light co-members)",
+      "Archbishop (former master)",
+      "Alice (enemy)"
+    ],
+    "voicedBy": {
+      "Japanese": "Noda Tetsurou (野田 てつろう)",
+      "Indonesian": "Amar Saifullah"
+    },
+    "links": [
+      {
+        "label": "www.mobilelegends.com",
+        "url": "https://www.mobilelegends.com/hero/detail?heroid=116"
+      },
+      {
+        "label": "m.mobilelegends.com",
+        "url": "https://m.mobilelegends.com/hero/detail?heroid=116"
+      },
+      {
+        "label": "new.mobilelegends.com",
+        "url": "https://new.mobilelegends.com/hero/detail?heroid=116"
+      },
+      {
+        "label": "MLBB Hero Academy page",
+        "url": "https://play.mobilelegends.com/heroacademy/?hero_id=62"
+      },
+      {
+        "label": "MLBB China hero page",
+        "url": "https://moba.moonton.com/hero/116"
+      },
+      {
+        "label": "Legends of Dawn hero page",
+        "url": "https://play.mobilelegends.com/lore/hero/Julian"
+      }
+    ]
+  },
+  {
+    "name": "Sora",
+    "slug": "sora",
+    "url": "https://mobile-legends.fandom.com/wiki/Sora",
+    "title": "Sora \"Shifting Cloud\"",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png",
+    "lead": {
+      "quote": "",
+      "summary": [
+        "Sora, the Shifting Cloud, is a hero in Mobile Legends: Bang Bang."
+      ]
+    },
+    "info": {
+      "Release date": "18 December 2025",
+      "Role": "Fighter/ Assassin",
+      "Specialty": "Charge/Burst",
+      "Lane Recc.": "EXP Lane",
+      "Price": "32000 or 599",
+      "Skill resource": "None",
+      "Damage type": "Physical",
+      "Basic attack type": "Melee",
+      "Durability": "6",
+      "Offense": "6",
+      "Control effects": "5",
+      "Difficulty": "5",
+      "Alias": "Shifting Cloud",
+      "Chinese Name": "赛乐 (Sàilè)",
+      "Internal name": "cirrus",
+      "Birthday": "June 16 (Gemini)",
+      "Origin": "The Oasis, Agelta Drylands",
+      "Website": "Legends of Dawn hero page | Sora Mastery Code",
+      "English": "Kevin Andrew Rivera",
+      "Japanese": "Azuma Keita (吾妻 奎太)"
+    },
+    "stats": [
+      {
+        "attribute": "HP",
+        "level1": "2650",
+        "level15": "5730",
+        "growth": "220"
+      },
+      {
+        "attribute": "HP Regen",
+        "level1": "10.8",
+        "level15": "17.6",
+        "growth": "0.4857"
+      },
+      {
+        "attribute": "Physical Attack",
+        "level1": "132",
+        "level15": "240",
+        "growth": "7.71"
+      },
+      {
+        "attribute": "Physical Defense (Physical Damage Reduced)",
+        "level1": "25 (17.2%)",
+        "level15": "87 (42%)",
+        "growth": "4.4286"
+      },
+      {
+        "attribute": "Magic Defense (Magic Damage Reduced)",
+        "level1": "15 (11.1%)",
+        "level15": "50 (29.4%)",
+        "growth": "2.5"
+      },
+      {
+        "attribute": "Attack Speed",
+        "level1": "1.02",
+        "level15": "1.16",
+        "growth": "0.01"
+      }
+    ],
+    "skills": [
+      {
+        "type": "Passive",
+        "name": "Mystic Surge",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Mystic_Surge.png",
+        "tags": [
+          "Buff"
+        ],
+        "metadata": [],
+        "description": "Sora can ascend to Thunder or Torrent by using his  Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of Cloudstep. At 5 stacks, he unlocks his True Art. \n Thunder: Converts 30% Max HP into Physical Attack at 10% ratio, adopting an assassin style. \n Torrent: Converts each point of Physical Attack into 10 Max HP, adopting a tank style.",
+        "terms": [],
+        "tables": [],
+        "notes": [],
+        "iconVariants": [],
+        "variantLabel": null
+      },
+      {
+        "type": "Skill 1",
+        "name": "Sundering Strike",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Sundering_Strike.png",
+        "tags": [
+          "Damage"
+        ],
+        "metadata": [],
+        "description": "Sora strikes twice, dealing 140–220 (+50% Total Physical Attack) Physical Damage, then lunges forward, dealing 240–440 (+5% Total HP) Physical Damage. He can dash after striking.",
+        "terms": [],
+        "tables": [
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "5.0"
+              ],
+              [
+                "Haymaker Damage",
+                "140",
+                "156",
+                "172",
+                "188",
+                "204",
+                "220"
+              ],
+              [
+                "Straight Punch Damage",
+                "240",
+                "280",
+                "320",
+                "360",
+                "400",
+                "440"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Skill 1",
+            "name": "Sundering Strike",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Sundering_Strike.png",
+            "tags": [
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora strikes twice, dealing 140–220 (+50% Total Physical Attack) Physical Damage, then lunges forward, dealing 240–440 (+5% Total HP) Physical Damage. He can dash after striking.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "5.0"
+                  ],
+                  [
+                    "Haymaker Damage",
+                    "140",
+                    "156",
+                    "172",
+                    "188",
+                    "204",
+                    "220"
+                  ],
+                  [
+                    "Straight Punch Damage",
+                    "240",
+                    "280",
+                    "320",
+                    "360",
+                    "400",
+                    "440"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Skill 1",
+            "name": "Sundering Strike - Thunderflash",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Sundering_Strike_-_Thunderflash.png",
+            "tags": [
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora strikes four times, dealing 140–220 (+50% Total Physical Attack) Physical Damage, then lunges forward, dealing 240–440 (+5% Total HP) Physical Damage. He can move freely during this skill.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "5.0"
+                  ],
+                  [
+                    "Haymaker Damage",
+                    "140",
+                    "156",
+                    "172",
+                    "188",
+                    "204",
+                    "220"
+                  ],
+                  [
+                    "Straight Punch Damage",
+                    "240",
+                    "280",
+                    "320",
+                    "360",
+                    "400",
+                    "440"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Thunder"
+          },
+          {
+            "type": "Skill 1",
+            "name": "Sundering Strike - Overwhelm",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Sundering_Strike_-_Overwhelm.png",
+            "tags": [
+              "Damage",
+              "CC"
+            ],
+            "metadata": [],
+            "description": "Sora strikes twice, dealing 140–220 (+50% Total Physical Attack) Physical Damage and slowing enemies for 40%. He then lunges forward, dealing 240–440 (+5% Total HP) Physical Damage, stunning enemies for 0.5 seconds. He can dash after striking.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "5.0"
+                  ],
+                  [
+                    "Haymaker Damage",
+                    "140",
+                    "156",
+                    "172",
+                    "188",
+                    "204",
+                    "220"
+                  ],
+                  [
+                    "Straight Punch Damage",
+                    "240",
+                    "280",
+                    "320",
+                    "360",
+                    "400",
+                    "440"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Torrent"
+          }
+        ]
+      },
+      {
+        "type": "Skill 2",
+        "name": "Windstride",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Windstride.png",
+        "tags": [
+          "Mobility",
+          "Damage"
+        ],
+        "metadata": [],
+        "description": "Sora leaps forward, dealing 140–200 (+55% Total Physical Attack) Physical Damage. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional 140–200 (+8% Total HP) Physical Damage and slowing them by 40% for 0.5 seconds. Successful hits reduce the cooldown by 2 seconds.",
+        "terms": [],
+        "tables": [
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "8.0"
+              ],
+              [
+                "Base Damage",
+                "140",
+                "152",
+                "164",
+                "176",
+                "188",
+                "200"
+              ],
+              [
+                "Extra Damage",
+                "140",
+                "152",
+                "164",
+                "176",
+                "188",
+                "200"
+              ]
+            ]
+          }
+        ],
+        "notes": [],
+        "iconVariants": [],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Skill 2",
+            "name": "Windstride",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Windstride.png",
+            "tags": [
+              "Mobility",
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora leaps forward, dealing 140–200 (+55% Total Physical Attack) Physical Damage. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional 140–200 (+8% Total HP) Physical Damage and slowing them by 40% for 0.5 seconds. Successful hits reduce the cooldown by 2 seconds.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "8.0"
+                  ],
+                  [
+                    "Base Damage",
+                    "140",
+                    "152",
+                    "164",
+                    "176",
+                    "188",
+                    "200"
+                  ],
+                  [
+                    "Extra Damage",
+                    "140",
+                    "152",
+                    "164",
+                    "176",
+                    "188",
+                    "200"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Skill 2",
+            "name": "Windstride - Thunder Rush",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Windstride_-_Thunder_Rush.png",
+            "tags": [
+              "Mobility",
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora leaps forward, dealing 120–180 (+45% Total Physical Attack) Physical Damage, then summons a thunderstorm that hits for 120–180 (+6% Total HP) Physical Damage and slows them by 50% for 0.5 seconds. This skill can be cast again within 4 seconds if it hits an enemy.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "8.0"
+                  ],
+                  [
+                    "Base Damage",
+                    "120",
+                    "132",
+                    "144",
+                    "156",
+                    "168",
+                    "180"
+                  ],
+                  [
+                    "Extra Damage",
+                    "120",
+                    "132",
+                    "144",
+                    "156",
+                    "168",
+                    "180"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Thunder"
+          },
+          {
+            "type": "Skill 2",
+            "name": "Windstride - Skyfall",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Windstride_-_Skyfall.png",
+            "tags": [
+              "CC"
+            ],
+            "metadata": [],
+            "description": "Sora leaps forward, dealing 140–200 (+55% Total Physical Attack) Physical Damage and knocking enemies back to the landing point. He then smashes the ground and deals 140–200 (+8% Total HP) Physical Damage, knocking enemies airborne for 0.5 seconds. Successful its reduce the cooldown by 2 seconds.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "8.0"
+                  ],
+                  [
+                    "Base Damage",
+                    "140",
+                    "152",
+                    "164",
+                    "176",
+                    "188",
+                    "200"
+                  ],
+                  [
+                    "Extra Damage",
+                    "140",
+                    "152",
+                    "164",
+                    "176",
+                    "188",
+                    "200"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Torrent"
+          }
+        ]
+      },
+      {
+        "type": "Ultimate",
+        "name": "Shifting Skies",
+        "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Shifting_Skies.png",
+        "tags": [
+          "Damage",
+          "Buff"
+        ],
+        "metadata": [],
+        "description": "Swipe left to ascend into Thunder for 10 seconds. Sora gains brief bonus Movement Speed and becomes untargetable. He then summons lightning to strike nearby enemies 3 time(s), dealing 140–200 (+50% Total Physical Attack) Physical Damage with each strike. \n Swipe right to ascend into Torrent for 10 seconds. After a brief delay, Sora pulls in nearby enemies and deals 250–450 (+8% Total HP) Physical Damage.",
+        "terms": [],
+        "tables": [
+          {
+            "title": "Level scaling",
+            "headers": [
+              "Properties",
+              "1",
+              "2",
+              "3"
+            ],
+            "rows": [
+              [
+                "Cooldown",
+                "32.0",
+                "28.0",
+                "24.0"
+              ],
+              [
+                "Thunder Damage",
+                "140",
+                "170",
+                "200"
+              ],
+              [
+                "Torrent Damage",
+                "250",
+                "350",
+                "450"
+              ]
+            ]
+          }
+        ],
+        "notes": [
+          "During his Ultimate: Thunder decreases Sora's interval between Basic Attacks. Torrent increases Sora's interval between Basic Attacks."
+        ],
+        "iconVariants": [],
+        "variantLabel": "Default",
+        "variants": [
+          {
+            "type": "Ultimate",
+            "name": "Shifting Skies",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Shifting_Skies.png",
+            "tags": [
+              "Damage",
+              "Buff"
+            ],
+            "metadata": [],
+            "description": "Swipe left to ascend into Thunder for 10 seconds. Sora gains brief bonus Movement Speed and becomes untargetable. He then summons lightning to strike nearby enemies 3 time(s), dealing 140–200 (+50% Total Physical Attack) Physical Damage with each strike. \n Swipe right to ascend into Torrent for 10 seconds. After a brief delay, Sora pulls in nearby enemies and deals 250–450 (+8% Total HP) Physical Damage.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "32.0",
+                    "28.0",
+                    "24.0"
+                  ],
+                  [
+                    "Thunder Damage",
+                    "140",
+                    "170",
+                    "200"
+                  ],
+                  [
+                    "Torrent Damage",
+                    "250",
+                    "350",
+                    "450"
+                  ]
+                ]
+              }
+            ],
+            "notes": [
+              "During his Ultimate: Thunder decreases Sora's interval between Basic Attacks. Torrent increases Sora's interval between Basic Attacks."
+            ],
+            "iconVariants": [],
+            "variantLabel": "Default"
+          },
+          {
+            "type": "Ultimate",
+            "name": "Heaven's Wrath",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Heaven%27s_Wrath.png",
+            "tags": [
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora leaps into the air and strikes a target area 15 times, dealing 60–100 (+40% Total Physical Attack) Physical Damage with each hit. Sora can move freely during this skill.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "0.0"
+                  ],
+                  [
+                    "Base Damage",
+                    "60",
+                    "80",
+                    "100"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Thunder"
+          },
+          {
+            "type": "Ultimate",
+            "name": "Stormbind",
+            "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Stormbind.png",
+            "tags": [
+              "Damage"
+            ],
+            "metadata": [],
+            "description": "Sora leaps into the air and strikes the target area 5 time(s), dealing 100–150 (+6% Total HP) Physical Damage and briefly stunning with each hit. Sora can move freely and ignore terrain during this skill.",
+            "terms": [],
+            "tables": [
+              {
+                "title": "Level scaling",
+                "headers": [
+                  "Properties",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "rows": [
+                  [
+                    "Cooldown",
+                    "0.0"
+                  ],
+                  [
+                    "Base Damage",
+                    "100",
+                    "125",
+                    "150"
+                  ]
+                ]
+              }
+            ],
+            "notes": [],
+            "iconVariants": [],
+            "variantLabel": "Torrent"
+          }
+        ]
+      }
+    ],
+    "skins": [
+      {
+        "name": "Shifting Cloud",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Sora_%28Shifting_Cloud%29.jpg",
+        "category": "Splash art"
+      },
+      {
+        "name": "Azure Cloud",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Sora_%28Azure_Cloud%29.jpg",
+        "category": "Splash art"
+      }
+    ],
+    "gallery": {
+      "Splash art": [
+        {
+          "name": "Shifting Cloud",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Sora_%28Shifting_Cloud%29.jpg",
+          "category": "Splash art"
+        },
+        {
+          "name": "Azure Cloud",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Sora_%28Azure_Cloud%29.jpg",
+          "category": "Splash art"
+        }
+      ],
+      "Avatar icons": [
+        {
+          "name": "Shifting Cloud",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1311-icon.png",
+          "category": "Avatar icons"
+        },
+        {
+          "name": "Azure Cloud",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1312-icon.png",
+          "category": "Avatar icons"
+        }
+      ],
+      "Battle emotes": [
+        {
+          "name": "What a Shock Obtained by accumulating activity points in the Clouds To Wealth web mini-game.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/What_a_Shock.png",
+          "category": "Battle emotes"
+        },
+        {
+          "name": "Chill Obtained via the Christmas & New Year Creation Contest.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Chill.png",
+          "category": "Battle emotes"
+        },
+        {
+          "name": "Bored Obtained via the Friend Fest events.",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Bored.png",
+          "category": "Battle emotes"
+        }
+      ],
+      "\"Today's forecast... cloudy!\" hero series stickers": [],
+      "Hero survey concept": [
+        {
+          "name": "Hero design",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/New-hero-survey-v0-y1mo9n178tef1.webp",
+          "category": "Hero survey concept"
+        },
+        {
+          "name": "Skills design",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Soraskills.webp",
+          "category": "Hero survey concept"
+        }
+      ]
+    },
+    "story": {
+      "quote": "“ A pure and free-spirited boy with unshakeable resolve, drifting across the golden sands. ”",
+      "intro": [
+        "Amidst the windswept sands of the Agelta Drylands, a boy named Sora drifts as freely as the flowing clouds. Pure and free-spirited, he wields fists wreathed in ever-shifting clouds—sometimes as thunderclouds crackling with fierce lightning, other times accumulating into thick cumulus clouds to shield against the desert's fury. Adventure calls to Sora like an alluring song, drawing him deep into uncharted desert ruins where he seeks out mysterious wonders. Yet the people know that when droughts loom and despair takes hold he will come riding the winds, bearing the precious rains their parched lands crave. Now Sora continues his journey along the ancient Emerald Road, carrying rain-bearing clouds to every corner of the desert, and hope to every desperate tribe."
+      ],
+      "bio": [],
+      "sideStory": [],
+      "sections": {
+        "a cloudseeker's song": [
+          "Ninety-nine oases crossed, ninety-nine sandstorms weathered.",
+          "In the heart of ancient ruins, where thunder calls, the mystical clouds gather.",
+          "Mystical clouds, oh mystical clouds, grant me your life giving rain, shelter me from swirling sands, and awaken the sleeping earth...",
+          "—The Camel Bell Traveler, A Cloudseeker's Song",
+          "Centuries ago, a struggle born of greed triggered a catastrophic explosion of a fragment of the Twilight Orb in the heart of Agelta, obliterating many ancient cities and reducing the once-magnificent Emerald Road to ruins. Since that cataclysm, Agelta became known as the Agelta Drylands, consumed by the relentless sands, its former glory fading into the endless scorching expanse. Yet there are always young souls stirred by that ancient Cloudseeker's Song, who dare to chase the clouds across the dunes with unwavering resolve. Just like Sora, who first heard the Cloudseeker's Song during a devastating drought.",
+          "\"Elder! I will definitely find the mystical clouds! And bring life back into this desert!\"",
+          "Sora declared his purpose with burning conviction, but the tribal elder merely shook his head with a weary, knowing smile—adults, after all, whould never stake their lives on empty legends. But Sora would not be swayed, his voice rang through every corner of his tribe. When the moon crested the dunes, other young hearts kindled by his determination gathered in the shadows. They shouldered their traveling packs and set forth together into the vast unknown, chasing dreams of the mystical coulds.",
+          "At first, the adventure seemed filled with wonder and possibility. But when only endless seas of sand stretched ahead, their true trial began. As their waterskins ran dry beneath the merciless sun, hope withered like flowers in the scorching desert. \"I can smell it in the air—the mystical clouds are resting not far from here. Just a bit further!\" Sora wore an expression of content. The others closed their eyes and sniffed the air, They also began to smell that crisp sense of mist in the air. This quickly lifted their weary soulds, and they pressed onward, cresting dunes ahead until—an oasis! Was this mere chance, or had their collective hope conjured a miracle?",
+          "But their quest was far from over, and after this blessed respite came another stretch of howling sandstorms. When the fiercest of the storms hit, they lost all direction, curled against the rocks, clutching their precious packs. But amid the shrieking winds, Sora gathered their cloaks piece by precious piece, and weaved them into a tent of ingenious design—as if conjuring their very own cloud against the sandstorm's fury. Outside their tent, wind and sand raged with ancient fury; within, Sora envisioned a hopeful future: they would find the mystical clouds, the elders would welcome them home with untold pride, and their tribe would bloom with life once more... As the light in Sora's eyes blazed brighter than the desert sun, his once-shaken companions found solace.",
+          "After crossing ninety-nine oases and weathering ninety-nine sandstorms, the mystical clouds still eluded them. Though Sora's faith burned undiminished, his companions' resolve crumbled one by one until he could no longer hold them. At last, they reached the desert's heart, where no mystical clouds awaited—only ruins swallowed by endless sand. Worse still, a colossal sandstorm that devoured the very skin bore down upon them, threatening to bury them alongside every trace of their desperate journey.",
+          "\"We're finished. There are no mystical clouds.\"",
+          "\"This whole journey was a fool's errand!\"",
+          "\"Sora, how long will you keep lying to yourself!\"",
+          "As his companions collapsed into despair and anguish, Sora fixed his gaze upon the approaching storm, and from it eye came a sound—the faint but unmistakable rumble of thunder. \"Hey, do you remember how the song ends? 'In the heart of ancient ruins, where thunder calls, the mystical clouds gather'. We're almost there!\"",
+          "Sora turned to face his broken companions:",
+          "\"I will carry all our hopes to the end!\"",
+          "Without hesitation he leaped into the maw of the storm.",
+          "The tempest's fury seized Sora and dragged him inward, but instead of being torn asunder, he found himself floating in a strange place. Here, he saw puffs of clouds and wisps of sand that took the shape of the young adventurers who had once journeyed here in search of the mystical clouds.",
+          "Sora suddenly heard their voices echo:",
+          "\"I swore to my friends I would find the mystical clouds!\"",
+          "\"I won't let Agelta be a desert of despair any longer!\"",
+          "\"Our tribe will flourish with life once more!\"",
+          "Following the echoes, Sora beheld a strange radiance pulsing at the center of the space—a fragment of the very Twilight Orb whose explosion had once fractured the Agelta Drylands, its lingering energy still coursing through this hallowed space. This energy possessed the miraculous ability to transmute the abstract into reality; the unfulfilled dreams of all those could-seeking adventurers had been touched by its influence, crystallizing into the monuments that surrounded him. An overwhelming surge of purpose flooded Sora's heart as he reached toward the energy core—if it could truly give form to their hopes, then let it resonate with him... with everyone who had ever sought the clouds in this desert!",
+          "In an instant, the clouds and illusions dissipated, streaming toward Sora's outstretched hands—evaporating, expanding, spiraling skyward, condensing into living clouds. Thunder cracked like the world's awakening as Sora burst forth from the eye of the storm, transformed into the mystical cloud like in the legends. His took on the form of billowing cumulus clouds to shield against the sandstorm's fury, then thunderclouds to shatter ancient debris with lightning—until at last, the chaos felt silent.",
+          "As the tempest cleared, the sky opened up. Long-awaited rain poured forth in torrents, and his companions finally understood the true meaning of the Cloudseeker's Song: the one who seeks the mystical cloud must, through unshakable resolve, become the cloud itself.",
+          "Now sora carries clouds that will never fade in his palms, as eternal as the determination in his heart. He wanders Agelta's vast golden sands with Belerick and Floryn, breathing new life into parched land. When new adventurers pass by, chanting that ancient song, the cloud guiding them would stop to join their chorus.",
+          "\"Ninety-nine oases crossed, ninety-nine sandstorms weathered...\""
+        ]
+      }
+    },
+    "infobox": {
+      "main": {
+        "title": "Sora\"Shifting Cloud\"",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png",
+        "data": {
+          "Release date": "18 December 2025",
+          "Role": "Fighter/ Assassin",
+          "Specialty": "Charge/Burst",
+          "Lane Recc.": "EXP Lane",
+          "Price": "32000 or 599",
+          "Skill resource": "None",
+          "Damage type": "Physical",
+          "Basic attack type": "Melee",
+          "Durability": "6",
+          "Offense": "6",
+          "Control effects": "5",
+          "Difficulty": "5"
+        },
+        "sections": [
+          {
+            "title": "Ratings (1–10)",
+            "items": [
+              {
+                "label": "Durability",
+                "value": "6",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Offense",
+                "value": "6",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Control effects",
+                "value": "5",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Difficulty",
+                "value": "5",
+                "list": [],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Website",
+            "items": [
+              {
+                "label": "",
+                "value": "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com | MLBB China hero page",
+                "list": [
+                  "MLBB hero page:→ www.mobilelegends.com→ m.mobilelegends.com→ new.mobilelegends.com",
+                  "MLBB China hero page"
+                ],
+                "links": [
+                  {
+                    "label": "www.mobilelegends.com",
+                    "url": "https://www.mobilelegends.com/hero/detail?heroid=131"
+                  },
+                  {
+                    "label": "m.mobilelegends.com",
+                    "url": "https://m.mobilelegends.com/hero/detail?heroid=131"
+                  },
+                  {
+                    "label": "new.mobilelegends.com",
+                    "url": "https://new.mobilelegends.com/hero/detail?heroid=131"
+                  },
+                  {
+                    "label": "MLBB China hero page",
+                    "url": "https://moba.moonton.com/hero/131"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Main",
+            "items": [
+              {
+                "label": "Release date",
+                "value": "18 December 2025",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Role",
+                "value": "Fighter/ Assassin",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Specialty",
+                "value": "Charge/Burst",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Lane Recc.",
+                "value": "EXP Lane",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Price",
+                "value": "32000 or 599",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Skill resource",
+                "value": "None",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Damage type",
+                "value": "Physical",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Basic attack type",
+                "value": "Melee",
+                "list": [],
+                "links": []
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "www.mobilelegends.com",
+            "url": "https://www.mobilelegends.com/hero/detail?heroid=131"
+          },
+          {
+            "label": "m.mobilelegends.com",
+            "url": "https://m.mobilelegends.com/hero/detail?heroid=131"
+          },
+          {
+            "label": "new.mobilelegends.com",
+            "url": "https://new.mobilelegends.com/hero/detail?heroid=131"
+          },
+          {
+            "label": "MLBB China hero page",
+            "url": "https://moba.moonton.com/hero/131"
+          }
+        ]
+      },
+      "story": {
+        "title": "Sora",
+        "image": "",
+        "data": {
+          "Alias": "Shifting Cloud",
+          "Chinese Name": "赛乐 (Sàilè)",
+          "Internal name": "cirrus",
+          "Birthday": "June 16 (Gemini)",
+          "Origin": "The Oasis, Agelta Drylands",
+          "Website": "Legends of Dawn hero page | Sora Mastery Code",
+          "English": "Kevin Andrew Rivera",
+          "Japanese": "Azuma Keita (吾妻 奎太)"
+        },
+        "sections": [
+          {
+            "title": "Relationships",
+            "items": [
+              {
+                "label": "",
+                "value": "Belerick, Floryn (companions)",
+                "list": [
+                  "Belerick, Floryn (companions)"
+                ],
+                "links": []
+              }
+            ]
+          },
+          {
+            "title": "Voiced by",
+            "items": [
+              {
+                "label": "English",
+                "value": "Kevin Andrew Rivera",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Japanese",
+                "value": "Azuma Keita (吾妻 奎太)",
+                "list": [],
+                "links": [
+                  {
+                    "label": "Azuma Keita (吾妻 奎太)",
+                    "url": "https://ja.wikipedia.org/wiki/吾妻奎太"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "In-story information",
+            "items": [
+              {
+                "label": "Alias",
+                "value": "Shifting Cloud",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Chinese Name",
+                "value": "赛乐 (Sàilè)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Internal name",
+                "value": "cirrus",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Birthday",
+                "value": "June 16 (Gemini)",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Origin",
+                "value": "The Oasis, Agelta Drylands",
+                "list": [],
+                "links": []
+              },
+              {
+                "label": "Website",
+                "value": "Legends of Dawn hero page | Sora Mastery Code",
+                "list": [
+                  "Legends of Dawn hero page",
+                  "Sora Mastery Code"
+                ],
+                "links": [
+                  {
+                    "label": "Legends of Dawn hero page",
+                    "url": "https://play.mobilelegends.com/lore/hero/Sora"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Legends of Dawn hero page",
+            "url": "https://play.mobilelegends.com/lore/hero/Sora"
+          },
+          {
+            "label": "Azuma Keita (吾妻 奎太)",
+            "url": "https://ja.wikipedia.org/wiki/吾妻奎太"
+          }
+        ]
+      }
+    },
+    "relationships": [
+      "Belerick, Floryn (companions)"
+    ],
+    "voicedBy": {
+      "English": "Kevin Andrew Rivera",
+      "Japanese": "Azuma Keita (吾妻 奎太)"
+    },
+    "links": [
+      {
+        "label": "www.mobilelegends.com",
+        "url": "https://www.mobilelegends.com/hero/detail?heroid=131"
+      },
+      {
+        "label": "m.mobilelegends.com",
+        "url": "https://m.mobilelegends.com/hero/detail?heroid=131"
+      },
+      {
+        "label": "new.mobilelegends.com",
+        "url": "https://new.mobilelegends.com/hero/detail?heroid=131"
+      },
+      {
+        "label": "MLBB China hero page",
+        "url": "https://moba.moonton.com/hero/131"
+      },
+      {
+        "label": "Legends of Dawn hero page",
+        "url": "https://play.mobilelegends.com/lore/hero/Sora"
+      },
+      {
+        "label": "Azuma Keita (吾妻 奎太)",
+        "url": "https://ja.wikipedia.org/wiki/吾妻奎太"
+      }
+    ]
+  }
+]

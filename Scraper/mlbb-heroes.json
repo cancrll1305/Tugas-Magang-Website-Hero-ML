@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "Aamon",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20251225192214",
+    "role": "Assassin",
+    "specialty": "Chase/Magic Damage",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "26 October 2021"
+  },
+  {
+    "name": "Akai",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20241021140401",
+    "role": "Tank",
+    "specialty": "Guard/Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Aldous",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20241021142204",
+    "role": "Fighter",
+    "specialty": "Burst/Support",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "24 July 2018"
+  },
+  {
+    "name": "Alice",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20250917074230",
+    "role": "Tank/ Mage",
+    "specialty": "Charge/Regen",
+    "lane": "EXP Lane/ Jungle",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Alpha",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20250802155020",
+    "role": "Fighter",
+    "specialty": "Charge/Damage",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "January 2017"
+  },
+  {
+    "name": "Alucard",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20241021140353",
+    "role": "Fighter/ Assassin",
+    "specialty": "Chase/Damage",
+    "lane": "Jungle",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Angela",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20250406000910",
+    "role": "Support",
+    "specialty": "Guard/Support",
+    "lane": "Roaming",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "6 February 2018"
+  },
+  {
+    "name": "Argus",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20250407160733",
+    "role": "Fighter",
+    "specialty": "Charge/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Arlott",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20241021140737",
+    "role": "Fighter/ Assassin",
+    "specialty": "Charge/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "14 February 2023"
+  },
+  {
+    "name": "Atlas",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20241021142917",
+    "role": "Tank",
+    "specialty": "Crowd Control/Initiator",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "20 March 2020"
+  },
+  {
+    "name": "Aulus",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20241021143302",
+    "role": "Fighter",
+    "specialty": "Damage/Crowd Control",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "31 August 2021"
+  },
+  {
+    "name": "Aurora",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20241021141501",
+    "role": "Mage",
+    "specialty": "Crowd Control/Poke",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Badang",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20241021142519",
+    "role": "Fighter",
+    "specialty": "Charge/Burst",
+    "lane": "EXP Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "15 January 2019"
+  },
+  {
+    "name": "Balmond",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20251110110543",
+    "role": "Fighter",
+    "specialty": "Damage/Regen",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Bane",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+    "role": "Fighter/ Mage",
+    "specialty": "Push/Burst",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Barats",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20241021143047",
+    "role": "Tank/ Fighter",
+    "specialty": "Damage/Crowd Control",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 September 2020"
+  },
+  {
+    "name": "Baxia",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20241021142746",
+    "role": "Tank",
+    "specialty": "Support/Damage",
+    "lane": "Jungle/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "8 October 2019"
+  },
+  {
+    "name": "Beatrix",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20241021143216",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "19 March 2021"
+  },
+  {
+    "name": "Belerick",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20241021142334",
+    "role": "Tank",
+    "specialty": "Crowd Control/Regen",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "17 August 2018"
+  },
+  {
+    "name": "Benedetta",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20241021143017",
+    "role": "Assassin/ Fighter",
+    "specialty": "Chase/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "7 November 2020"
+  },
+  {
+    "name": "Brody",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20241021143102",
+    "role": "Marksman",
+    "specialty": "Burst/Finisher",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 October 2020"
+  },
+  {
+    "name": "Bruno",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20241021140925",
+    "role": "Marksman",
+    "specialty": "Finisher/Burst",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Carmilla",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20241021142902",
+    "role": "Support/ Tank",
+    "specialty": "Crowd Control/Damage",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "17 January 2020"
+  },
+  {
+    "name": "Cecilion",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20241021142846",
+    "role": "Mage",
+    "specialty": "Poke/Burst",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "12 February 2020"
+  },
+  {
+    "name": "Chang'e",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20241021142120",
+    "role": "Mage",
+    "specialty": "Poke/Burst",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599or  120",
+    "releaseDate": "30 May 2018"
+  },
+  {
+    "name": "Chip",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20241021140835",
+    "role": "Support/ Tank",
+    "specialty": "Support/Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 March 2024"
+  },
+  {
+    "name": "Chou",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20241021141231",
+    "role": "Fighter",
+    "specialty": "Chase/Control",
+    "lane": "EXP Lane/ Roaming",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "December 2016"
+  },
+  {
+    "name": "Cici",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20241021140820",
+    "role": "Fighter",
+    "specialty": "Damage/Regen",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "27 December 2023"
+  },
+  {
+    "name": "Claude",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20241021142219",
+    "role": "Marksman",
+    "specialty": "Burst/Chase",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "7 August 2018"
+  },
+  {
+    "name": "Clint",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20241021140929",
+    "role": "Marksman",
+    "specialty": "Finisher/Burst",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Cyclops",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20241021141415",
+    "role": "Mage",
+    "specialty": "Poke/Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Diggie",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20241021141804",
+    "role": "Support",
+    "specialty": "Guard/Poke",
+    "lane": "Roaming",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "19 November 2017"
+  },
+  {
+    "name": "Dyrroth",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20250917081250",
+    "role": "Fighter",
+    "specialty": "Charge/Burst",
+    "lane": "EXP Lane/ Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "25 June 2019"
+  },
+  {
+    "name": "Edith",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20241021143348",
+    "role": "Tank/ Marksman",
+    "specialty": "Control/Burst",
+    "lane": "EXP Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "24 December 2021"
+  },
+  {
+    "name": "Esmeralda",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20241021142615",
+    "role": "Tank/ Mage",
+    "specialty": "Regen/Mixed Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "3 April 2019"
+  },
+  {
+    "name": "Estes",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20241021141430",
+    "role": "Support",
+    "specialty": "Regen/Guard",
+    "lane": "Roaming",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Eudora",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20260129103005",
+    "role": "Mage",
+    "specialty": "Control/Burst",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "2000 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Fanny",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20241021141015",
+    "role": "Assassin",
+    "specialty": "Chase/Finisher",
+    "lane": "Jungle",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "30 September 2016"
+  },
+  {
+    "name": "Faramis",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20241021142504",
+    "role": "Support/ Mage",
+    "specialty": "Guard/Charge",
+    "lane": "Mid Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 May 2019"
+  },
+  {
+    "name": "Floryn",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20241021143403",
+    "role": "Support",
+    "specialty": "Poke/Guard",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "22 September 2021"
+  },
+  {
+    "name": "Franco",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20241021140917",
+    "role": "Tank",
+    "specialty": "Initiator/Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 749",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Fredrinn",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20241021140652",
+    "role": "Fighter/ Tank",
+    "specialty": "Damage/Chase",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "12 August 2022"
+  },
+  {
+    "name": "Freya",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20251110105915",
+    "role": "Fighter",
+    "specialty": "Chase/Damage",
+    "lane": "EXP Lane/ Jungle",
+    "region": "",
+    "price": "599",
+    "releaseDate": "November 2016"
+  },
+  {
+    "name": "Gatotkaca",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20241021141617",
+    "role": "Tank/ Fighter",
+    "specialty": "Crowd Control/Burst",
+    "lane": "Roaming/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "July 2017"
+  },
+  {
+    "name": "Gloo",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20250403144136",
+    "role": "Tank",
+    "specialty": "Regen/Control",
+    "lane": "EXP Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 April 2021"
+  },
+  {
+    "name": "Gord",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20241123045016",
+    "role": "Mage",
+    "specialty": "Poke/Burst",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "November 2016"
+  },
+  {
+    "name": "Granger",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20250407160652",
+    "role": "Marksman",
+    "specialty": "Burst/Finisher",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "23 April 2019"
+  },
+  {
+    "name": "Grock",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png/revision/latest?cb=20250811073746",
+    "role": "Tank/ Fighter",
+    "specialty": "Crowd Control/Initiator",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Guinevere",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20241021142559",
+    "role": "Fighter",
+    "specialty": "Burst/Magic Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "21 February 2019"
+  },
+  {
+    "name": "Gusion",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20241021142006",
+    "role": "Assassin",
+    "specialty": "Burst/Magic Damage",
+    "lane": "Jungle/ Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2018"
+  },
+  {
+    "name": "Hanabi",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20241021142105",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "17 April 2018"
+  },
+  {
+    "name": "Hanzo",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20250117141953",
+    "role": "Assassin",
+    "specialty": "Burst/Poke",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "4 December 2018"
+  },
+  {
+    "name": "Harith",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20241021142419",
+    "role": "Mage",
+    "specialty": "Chase/Damage",
+    "lane": "Gold Lane/ Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "6 November 2018"
+  },
+  {
+    "name": "Harley",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20241021141633",
+    "role": "Assassin/ Mage",
+    "specialty": "Burst/Poke",
+    "lane": "Jungle/ Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "29 July 2017"
+  },
+  {
+    "name": "Hayabusa",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20241021141115",
+    "role": "Assassin",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "4 November 2016"
+  },
+  {
+    "name": "Helcurt",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20241021141850",
+    "role": "Assassin",
+    "specialty": "Push/Burst",
+    "lane": "Jungle/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "24 November 2017"
+  },
+  {
+    "name": "Hilda",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20241021141445",
+    "role": "Fighter/ Tank",
+    "specialty": "Damage/Regen",
+    "lane": "Roaming/ EXP Lane",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Hirara",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png/revision/latest?cb=20250126222140",
+    "role": "Assassin",
+    "specialty": "TBA/TBA",
+    "lane": "File:TBA.png TBA",
+    "region": "",
+    "price": "TBA or TBA",
+    "releaseDate": "TBA"
+  },
+  {
+    "name": "Hylos",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20241021141819",
+    "role": "Tank",
+    "specialty": "Guard/Initiator",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Irithel",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20241021141648",
+    "role": "Marksman",
+    "specialty": "Finisher/Burst",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Ixia",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20241021140752",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "8 July 2023"
+  },
+  {
+    "name": "Jawhead",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20241021141935",
+    "role": "Fighter",
+    "specialty": "Charge/Burst",
+    "lane": "Roaming/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "January 2018"
+  },
+  {
+    "name": "Johnson",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20241021141359",
+    "role": "Tank/ Support",
+    "specialty": "Support/Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "14 March 2017"
+  },
+  {
+    "name": "Joy",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20241021140707",
+    "role": "Assassin",
+    "specialty": "Chase/Damage",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 November 2022"
+  },
+  {
+    "name": "Julian",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20241021140636",
+    "role": "Assassin/ Fighter",
+    "specialty": "Chase/Magic Damage",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "24 May 2022"
+  },
+  {
+    "name": "Kadita",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20241021142450",
+    "role": "Mage/ Assassin",
+    "specialty": "Burst/Charge",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 December 2018"
+  },
+  {
+    "name": "Kagura",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20241021141216",
+    "role": "Mage",
+    "specialty": "Poke/Finisher",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "December 2016"
+  },
+  {
+    "name": "Kaja",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20241021142136",
+    "role": "Support/ Fighter",
+    "specialty": "Control/Charge",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "25 April 2018"
+  },
+  {
+    "name": "Kalea",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+    "role": "Support/ Fighter",
+    "specialty": "Control/Regen",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "19 March 2025"
+  },
+  {
+    "name": "Karina",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20241021140357",
+    "role": "Assassin",
+    "specialty": "Finisher/Magic Damage",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Karrie",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20241021141602",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Khaleed",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20241021143032",
+    "role": "Fighter",
+    "specialty": "Damage/Regen",
+    "lane": "Roaming/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "7 August 2020"
+  },
+  {
+    "name": "Khufra",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20241021142534",
+    "role": "Tank",
+    "specialty": "Initiator/Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "12 March 2019"
+  },
+  {
+    "name": "Kimmy",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20250320124912",
+    "role": "Marksman/ Mage",
+    "specialty": "Damage/Magic Damage",
+    "lane": "Mid Lane/ Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "23 October 2018"
+  },
+  {
+    "name": "Lancelot",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20241021141749",
+    "role": "Assassin",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20241021141516",
+    "role": "Fighter",
+    "specialty": "Chase/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Layla",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20241021141031",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "2000 or 299",
+    "releaseDate": "23 September 2016"
+  },
+  {
+    "name": "Leomord",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20241021142250",
+    "role": "Fighter",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "3 October 2018"
+  },
+  {
+    "name": "Lesley",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20241021141920",
+    "role": "Marksman/ Assassin",
+    "specialty": "Finisher/Burst",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "January 2018"
+  },
+  {
+    "name": "Ling",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb=20241021142700",
+    "role": "Assassin",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "24 November 2019"
+  },
+  {
+    "name": "Lolita",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20241021141100",
+    "role": "Support/ Tank",
+    "specialty": "Guard/Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "28 October 2016"
+  },
+  {
+    "name": "Lukas",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20250412174341",
+    "role": "Fighter",
+    "specialty": "Regen/Damage",
+    "lane": "EXP Lane/ Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "21 December 2024"
+  },
+  {
+    "name": "Lunox",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20241021142306",
+    "role": "Mage",
+    "specialty": "Burst/Damage",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "4 September 2018"
+  },
+  {
+    "name": "Luo Yi",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20241021143002",
+    "role": "Mage",
+    "specialty": "Support/Crowd Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 May 2020"
+  },
+  {
+    "name": "Lylia",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20241021142730",
+    "role": "Mage",
+    "specialty": "Push/Damage",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "23 July 2019"
+  },
+  {
+    "name": "Marcel",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png/revision/latest?cb=20250126222140",
+    "role": "Support",
+    "specialty": "Crowd Control/Support",
+    "lane": "Roaming",
+    "region": "",
+    "price": "TBA or TBA",
+    "releaseDate": "TBA"
+  },
+  {
+    "name": "Martis",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20241021142036",
+    "role": "Fighter",
+    "specialty": "Finisher/Charge",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2018"
+  },
+  {
+    "name": "Masha",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20241021142800",
+    "role": "Fighter/ Tank",
+    "specialty": "Push/Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "17 September 2019"
+  },
+  {
+    "name": "Mathilda",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20241021143131",
+    "role": "Support/ Assassin",
+    "specialty": "Initiator/Guard",
+    "lane": "Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "12 December 2020"
+  },
+  {
+    "name": "Melissa",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20241021143430",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "22 February 2022"
+  },
+  {
+    "name": "Minotaur",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20241021141046",
+    "role": "Tank/ Support",
+    "specialty": "Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "14 October 2016"
+  },
+  {
+    "name": "Minsitthar",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20241021142435",
+    "role": "Fighter",
+    "specialty": "Initiator/Crowd Control",
+    "lane": "EXP Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "20 November 2018"
+  },
+  {
+    "name": "Miya",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20250407160822",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "10800 or 399",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Moskov",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20241021141344",
+    "role": "Marksman",
+    "specialty": "Finisher/Chase",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 399",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Nana",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20241021140348",
+    "role": "Mage",
+    "specialty": "Poke/Burst",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Natalia",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20241021141201",
+    "role": "Assassin",
+    "specialty": "Chase/Finisher",
+    "lane": "Jungle/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "December 2016"
+  },
+  {
+    "name": "Natan",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20241021143246",
+    "role": "Marksman",
+    "specialty": "Burst/Magic Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "23 July 2021"
+  },
+  {
+    "name": "Nolan",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20241021140807",
+    "role": "Assassin",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "30 September 2023"
+  },
+  {
+    "name": "Novaria",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20241021140722",
+    "role": "Mage",
+    "specialty": "Burst/Poke",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 May 2023"
+  },
+  {
+    "name": "Obsidia",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest?cb=20250928040037",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 499",
+    "releaseDate": "17 September 2025"
+  },
+  {
+    "name": "Odette",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20250117141936",
+    "role": "Mage",
+    "specialty": "Burst/Poke",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "20or  120",
+    "releaseDate": "29 September 2017"
+  },
+  {
+    "name": "Paquito",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20241021143146",
+    "role": "Fighter/ Assassin",
+    "specialty": "Chase/Damage",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "15 January 2021"
+  },
+  {
+    "name": "Pharsa",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20241021141905",
+    "role": "Mage",
+    "specialty": "Burst/Poke",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "27 December 2017"
+  },
+  {
+    "name": "Phoveus",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest?cb=20241021143231",
+    "role": "Fighter",
+    "specialty": "Regen/Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "11 May 2021"
+  },
+  {
+    "name": "Popol and Kupa",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20241021142932",
+    "role": "Marksman",
+    "specialty": "Push/Burst",
+    "lane": "Jungle/ Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "21 April 2020"
+  },
+  {
+    "name": "Rafaela",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20241021140932",
+    "role": "Support",
+    "specialty": "Regen/Guard",
+    "lane": "Roaming",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Roger",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cb=20241021141547",
+    "role": "Fighter/ Marksman",
+    "specialty": "Finisher/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "24000 or 499",
+    "releaseDate": "25 June 2017"
+  },
+  {
+    "name": "Ruby",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20250802152205",
+    "role": "Fighter",
+    "specialty": "Crowd Control/Regen",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Saber",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20250406000702",
+    "role": "Assassin",
+    "specialty": "Charge/Finisher",
+    "lane": "Jungle/ Roaming",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Selena",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20241021142149",
+    "role": "Assassin/ Mage",
+    "specialty": "Initiator/Finisher",
+    "lane": "Mid Lane/ Roaming",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "10 July 2018"
+  },
+  {
+    "name": "Silvanna",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20241021142831",
+    "role": "Fighter",
+    "specialty": "Initiator/Magic Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "17 December 2019"
+  },
+  {
+    "name": "Sora",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest?cb=20251218014024",
+    "role": "Fighter/ Assassin",
+    "specialty": "Charge/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 December 2025"
+  },
+  {
+    "name": "Sun",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20241021141243",
+    "role": "Fighter",
+    "specialty": "Push/Damage",
+    "lane": "EXP Lane/ Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "December 2016"
+  },
+  {
+    "name": "Suyou",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20250412174335",
+    "role": "Assassin/ Fighter",
+    "specialty": "Chase/Burst",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "21 September 2024"
+  },
+  {
+    "name": "Terizla",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20250802145756",
+    "role": "Fighter/ Tank",
+    "specialty": "Burst/Crowd Control",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "4 June 2019"
+  },
+  {
+    "name": "Thamuz",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20250917080630",
+    "role": "Fighter",
+    "specialty": "Chase/Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 September 2018"
+  },
+  {
+    "name": "Tigreal",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20241021140350",
+    "role": "Tank",
+    "specialty": "Crowd Control",
+    "lane": "Roaming",
+    "region": "",
+    "price": "6500 or 299",
+    "releaseDate": "2016"
+  },
+  {
+    "name": "Uranus",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20241021142052",
+    "role": "Tank",
+    "specialty": "Regen",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2018"
+  },
+  {
+    "name": "Vale",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20250406000746",
+    "role": "Mage",
+    "specialty": "Burst/Crowd Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "29 January 2019"
+  },
+  {
+    "name": "Valentina",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20241021143333",
+    "role": "Mage",
+    "specialty": "Burst/Finisher",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "25 November 2021"
+  },
+  {
+    "name": "Valir",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20241021142021",
+    "role": "Mage",
+    "specialty": "Damage/Guard",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2018"
+  },
+  {
+    "name": "Vexana",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20241021141531",
+    "role": "Mage",
+    "specialty": "Poke/Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Wanwan",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20250117142006",
+    "role": "Marksman",
+    "specialty": "Finisher/Burst",
+    "lane": "Gold Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "26 November 2019"
+  },
+  {
+    "name": "X.Borg",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20241021142646",
+    "role": "Fighter",
+    "specialty": "Regen/Burst",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "9 August 2019"
+  },
+  {
+    "name": "Xavier",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20241021143446",
+    "role": "Mage",
+    "specialty": "Damage/Guard",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "22 March 2022"
+  },
+  {
+    "name": "Yi Sun-shin",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20241021141329",
+    "role": "Assassin/ Marksman",
+    "specialty": "Finisher/Chase",
+    "lane": "Jungle",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Yin",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20241021143417",
+    "role": "Fighter/ Assassin",
+    "specialty": "Burst/Control",
+    "lane": "Jungle/ EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 January 2022"
+  },
+  {
+    "name": "Yu Zhong",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20241021142947",
+    "role": "Fighter",
+    "specialty": "Regen/Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "16 June 2020"
+  },
+  {
+    "name": "Yve",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20241021143118",
+    "role": "Mage",
+    "specialty": "Burst/Poke",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "12 February 2021"
+  },
+  {
+    "name": "Zetian",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
+    "role": "Mage",
+    "specialty": "Damage/Crowd Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "18 June 2025"
+  },
+  {
+    "name": "Zhask",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20241021141834",
+    "role": "Mage",
+    "specialty": "Chase/Damage",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "2017"
+  },
+  {
+    "name": "Zhuxin",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20250406000833",
+    "role": "Mage",
+    "specialty": "Damage/Crowd Control",
+    "lane": "Mid Lane",
+    "region": "",
+    "price": "32000 or 599",
+    "releaseDate": "29 June 2024"
+  },
+  {
+    "name": "Zilong",
+    "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20241021141000",
+    "role": "Fighter/ Assassin",
+    "specialty": "Chase/Damage",
+    "lane": "EXP Lane",
+    "region": "",
+    "price": "15000 or 399",
+    "releaseDate": "9 September 2016"
+  }
+]

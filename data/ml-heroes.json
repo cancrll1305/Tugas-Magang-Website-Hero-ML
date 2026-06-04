@@ -1,0 +1,2394 @@
+[
+  {
+    "id": 1,
+    "name": "Aamon",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Aamon",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 2,
+    "name": "Akai",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Guard",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Akai",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 3,
+    "name": "Aldous",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Burst",
+      "Support"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Aldous",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 4,
+    "name": "Alice",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "specialties": [
+      "Charge",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Alice",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 5,
+    "name": "Alpha",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Charge",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Alpha",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 6,
+    "name": "Alucard",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Alucard",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 7,
+    "name": "Angela",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Guard",
+      "Support"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Angela",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 8,
+    "name": "Argus",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Argus",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 9,
+    "name": "Arlott",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Arlott",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 10,
+    "name": "Assassin",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Assassin_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Assassin",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 11,
+    "name": "Atlas",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Initiator"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Atlas",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 12,
+    "name": "Aulus",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Aulus",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 13,
+    "name": "Aurora",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Aurora",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 14,
+    "name": "Badang",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Badang",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 15,
+    "name": "Balmond",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Balmond",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 16,
+    "name": "Bane",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "specialties": [
+      "Push",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Bane",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 17,
+    "name": "Barats",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Barats",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 18,
+    "name": "Baxia",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Support",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Baxia",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 19,
+    "name": "Beatrix",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Beatrix",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 20,
+    "name": "Belerick",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Belerick",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 21,
+    "name": "Benedetta",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Benedetta",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 22,
+    "name": "Brody",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Burst",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Brody",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 23,
+    "name": "Bruno",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Bruno",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 24,
+    "name": "Carmilla",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Carmilla",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 25,
+    "name": "Cecilion",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Cecilion",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 26,
+    "name": "Chang'e",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Chang'e",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 27,
+    "name": "Chip",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "specialties": [
+      "Support",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Chip",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 28,
+    "name": "Chou",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Chou",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 29,
+    "name": "Cici",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Cici",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 30,
+    "name": "Claude",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Burst",
+      "Chase"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Claude",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 31,
+    "name": "Clint",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Clint",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 32,
+    "name": "Cyclops",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Cyclops",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 33,
+    "name": "Diggie",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Guard",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Diggie",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 34,
+    "name": "Dyrroth",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Dyrroth",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 35,
+    "name": "Edith",
+    "roles": [
+      "Tank",
+      "Marksman"
+    ],
+    "specialties": [
+      "Control",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Edith",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 36,
+    "name": "Esmeralda",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "specialties": [
+      "Regen",
+      "Mixed Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Esmeralda",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 37,
+    "name": "Estes",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Regen",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Estes",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 38,
+    "name": "Eudora",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Control",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Eudora",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 39,
+    "name": "EXP Laner",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Fighter_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/EXP_Laner",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 40,
+    "name": "Fanny",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Fanny",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 41,
+    "name": "Faramis",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "specialties": [
+      "Guard",
+      "Charge"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Faramis",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 42,
+    "name": "Fighter",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Fighter_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Fighter",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 43,
+    "name": "Floryn",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Poke",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Floryn",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 44,
+    "name": "Franco",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Initiator",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Franco",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 45,
+    "name": "Fredrinn",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "specialties": [
+      "Damage",
+      "Chase"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Fredrinn",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 46,
+    "name": "Freya",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Freya",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 47,
+    "name": "Gatotkaca",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Gatotkaca",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 48,
+    "name": "Gloo",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Regen",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Gloo",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 49,
+    "name": "Gold Laner",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Marksman_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Gold_Laner",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 50,
+    "name": "Gord",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Gord",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 51,
+    "name": "Granger",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Burst",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Granger",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 52,
+    "name": "Grock",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Initiator"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Grock",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 53,
+    "name": "Guinevere",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Burst",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Guinevere",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 54,
+    "name": "Gusion",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Burst",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Gusion",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 55,
+    "name": "Hanabi",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hanabi",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 56,
+    "name": "Hanzo",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hanzo",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 57,
+    "name": "Harith",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Harith",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 58,
+    "name": "Harley",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Harley",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 59,
+    "name": "Hayabusa",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hayabusa",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 60,
+    "name": "Heavenly Artifacts",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Zilong_%28Empyrean_Paladin%29.jpg",
+    "url": "https://mobile-legends.fandom.com/wiki/Heavenly_Artifacts",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 61,
+    "name": "Helcurt",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Push",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Helcurt",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 62,
+    "name": "Hero roles",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Credit_Badge2.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hero_roles",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 63,
+    "name": "Hilda",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hilda",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 64,
+    "name": "Hylos",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Guard",
+      "Initiator"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Hylos",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 65,
+    "name": "Irithel",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Irithel",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 66,
+    "name": "Ixia",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Ixia",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 67,
+    "name": "Jawhead",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Jawhead",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 68,
+    "name": "Johnson",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "specialties": [
+      "Support",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Johnson",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 69,
+    "name": "Joy",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Joy",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 70,
+    "name": "Julian",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Julian",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 71,
+    "name": "Jungler",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Assassin_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Jungler",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 72,
+    "name": "Kadita",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "specialties": [
+      "Burst",
+      "Charge"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Kadita",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 73,
+    "name": "Kagura",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Kagura",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 74,
+    "name": "Kaja",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "specialties": [
+      "Control",
+      "Charge"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Kaja",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 75,
+    "name": "Kalea",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "specialties": [
+      "Control",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Kalea",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 76,
+    "name": "Karina",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Finisher",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Karina",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 77,
+    "name": "Karrie",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Karrie",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 78,
+    "name": "Khaleed",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Damage",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Khaleed",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 79,
+    "name": "Khufra",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Initiator",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Khufra",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 80,
+    "name": "Kimmy",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "specialties": [
+      "Damage",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Kimmy",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 81,
+    "name": "Lancelot",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lancelot",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 82,
+    "name": "Lapu-Lapu",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lapu-Lapu",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 83,
+    "name": "Layla",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Layla",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 84,
+    "name": "Leomord",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Leomord",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 85,
+    "name": "Lesley",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lesley",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 86,
+    "name": "Lightborn",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Lightborn_squad_logo.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lightborn",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 87,
+    "name": "Ling",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Ling",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 88,
+    "name": "Lolita",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "specialties": [
+      "Guard",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lolita",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 89,
+    "name": "Lukas",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Regen",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lukas",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 90,
+    "name": "Lunox",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lunox",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 91,
+    "name": "Luo Yi",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Support",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Luo_Yi",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 92,
+    "name": "Lylia",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Push",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Lylia",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 93,
+    "name": "Mage",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Mage_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Mage",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 94,
+    "name": "Marcel",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Support"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Battle_Emote_-_Looking_Forward.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Marcel",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 95,
+    "name": "Marksman",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Marksman_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Marksman",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 96,
+    "name": "Martis",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Finisher",
+      "Charge"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Martis",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 97,
+    "name": "Masha",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "specialties": [
+      "Push",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Masha",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 98,
+    "name": "Mathilda",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "specialties": [
+      "Initiator",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Mathilda",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 99,
+    "name": "Melissa",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Melissa",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 100,
+    "name": "Mid Laner",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Mage_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Mid_Laner",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 101,
+    "name": "Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "specialties": [
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Minotaur",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 102,
+    "name": "Minsitthar",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Initiator",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Minsitthar",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 103,
+    "name": "Miya",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Miya",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 104,
+    "name": "Moskov",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Chase"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Moskov",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 105,
+    "name": "Nana",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Nana",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 106,
+    "name": "Natalia",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Natalia",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 107,
+    "name": "Natan",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Burst",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Natan",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 108,
+    "name": "Nolan",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Nolan",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 109,
+    "name": "Novaria",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Novaria",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 110,
+    "name": "Obsidia",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Obsidia",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 111,
+    "name": "Odette",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Odette",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 112,
+    "name": "Oriental Fighters",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Oriental_Fighters.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Oriental_Fighters",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 113,
+    "name": "Paquito",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Paquito",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 114,
+    "name": "Pharsa",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Pharsa",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 115,
+    "name": "Phoveus",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Regen",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Phoveus",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 116,
+    "name": "Popol and Kupa",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Push",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Popol_and_Kupa",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 117,
+    "name": "Rafaela",
+    "roles": [
+      "Support"
+    ],
+    "specialties": [
+      "Regen",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Rafaela",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 118,
+    "name": "Roamer",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Support_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Roamer",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 119,
+    "name": "Roger",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Roger",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 120,
+    "name": "Ruby",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Crowd Control",
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Ruby",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 121,
+    "name": "S.A.B.E.R.",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/S.A.B.E.R._members.jpg",
+    "url": "https://mobile-legends.fandom.com/wiki/S.A.B.E.R.",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 122,
+    "name": "Saber",
+    "roles": [
+      "Assassin"
+    ],
+    "specialties": [
+      "Charge",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Saber",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 123,
+    "name": "Selena",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "specialties": [
+      "Initiator",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Selena",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 124,
+    "name": "Side Laner",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Fighter_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Side_Laner",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 125,
+    "name": "Silvanna",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Initiator",
+      "Magic Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Silvanna",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 126,
+    "name": "Sora",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Charge",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest?cb=20251218014024",
+    "url": "https://mobile-legends.fandom.com/wiki/Sora",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 127,
+    "name": "Sun",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Push",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Sun",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 128,
+    "name": "Support",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Support_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Support",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 129,
+    "name": "Suyou",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Suyou",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 130,
+    "name": "Tank",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Tank_Icon.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Tank",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 131,
+    "name": "Terizla",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "specialties": [
+      "Burst",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Terizla",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 132,
+    "name": "Thamuz",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Thamuz",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 133,
+    "name": "The Exorcists/Member Introduction",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Credit_Badge2.png",
+    "url": "https://mobile-legends.fandom.com/wiki/The_Exorcists%2FMember_Introduction",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 134,
+    "name": "Tigreal",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Tigreal",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 135,
+    "name": "Uranus",
+    "roles": [
+      "Tank"
+    ],
+    "specialties": [
+      "Regen"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Uranus",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 136,
+    "name": "V.E.N.O.M.",
+    "roles": [
+      "Unknown"
+    ],
+    "specialties": [],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/V.E.N.O.M._squad_wall.jpg",
+    "url": "https://mobile-legends.fandom.com/wiki/V.E.N.O.M.",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 137,
+    "name": "Vale",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Vale",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 138,
+    "name": "Valentina",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Finisher"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Valentina",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 139,
+    "name": "Valir",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Damage",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Valir",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 140,
+    "name": "Vexana",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Poke",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Vexana",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 141,
+    "name": "Wanwan",
+    "roles": [
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Wanwan",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 142,
+    "name": "X.Borg",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Regen",
+      "Burst"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/X.Borg",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 143,
+    "name": "Xavier",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Damage",
+      "Guard"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Xavier",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 144,
+    "name": "Yi Sun-shin",
+    "roles": [
+      "Assassin",
+      "Marksman"
+    ],
+    "specialties": [
+      "Finisher",
+      "Chase"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Yi_Sun-shin",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 145,
+    "name": "Yin",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Burst",
+      "Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Yin",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 146,
+    "name": "Yu Zhong",
+    "roles": [
+      "Fighter"
+    ],
+    "specialties": [
+      "Regen",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Yu_Zhong",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 147,
+    "name": "Yve",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Burst",
+      "Poke"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Yve",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 148,
+    "name": "Zetian",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Zetian",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 149,
+    "name": "Zhask",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Zhask",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 150,
+    "name": "Zhuxin",
+    "roles": [
+      "Mage"
+    ],
+    "specialties": [
+      "Damage",
+      "Crowd Control"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Zhuxin",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  },
+  {
+    "id": 151,
+    "name": "Zilong",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "specialties": [
+      "Chase",
+      "Damage"
+    ],
+    "lane": [],
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png",
+    "url": "https://mobile-legends.fandom.com/wiki/Zilong",
+    "game": "Mobile Legends",
+    "source": "Mobile Legends Wiki (Fandom API parse)"
+  }
+]
