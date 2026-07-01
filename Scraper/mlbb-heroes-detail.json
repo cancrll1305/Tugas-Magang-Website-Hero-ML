@@ -82151,12 +82151,8 @@
         "iconVariants": [
           "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
           "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Moon_Blessing_%28Legend%29.png"
-<<<<<<< HEAD
         ],
         "variantLabel": null
-=======
-        ]
->>>>>>> 3b928611280841d5c2c87e0b6ecfe34a98450250
       },
       {
         "type": "Skill 1",
@@ -82240,12 +82236,8 @@
         "iconVariants": [
           "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
           "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Moon_Arrow_%28Legend%29.png"
-<<<<<<< HEAD
         ],
         "variantLabel": null
-=======
-        ]
->>>>>>> 3b928611280841d5c2c87e0b6ecfe34a98450250
       },
       {
         "type": "Skill 2",
@@ -82323,12 +82315,8 @@
         "iconVariants": [
           "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
           "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Arrow_of_Eclipse_%28Legend%29.png"
-<<<<<<< HEAD
         ],
         "variantLabel": null
-=======
-        ]
->>>>>>> 3b928611280841d5c2c87e0b6ecfe34a98450250
       },
       {
         "type": "Ultimate",
@@ -82386,12 +82374,8 @@
         "iconVariants": [
           "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
           "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hidden_Moonlight_%28Legend%29.png"
-<<<<<<< HEAD
         ],
         "variantLabel": null
-=======
-        ]
->>>>>>> 3b928611280841d5c2c87e0b6ecfe34a98450250
       }
     ],
     "skins": [
@@ -83124,7 +83108,6 @@
         "url": "https://www.imdb.com/find?q=nm8858398"
       }
     ]
-<<<<<<< HEAD
   },
   {
     "name": "Moskov",
@@ -119751,7 +119734,5 @@
         "url": "https://doblaje.fandom.com/es/wiki/Miguel_%C3%81ngel_Leal"
       }
     ]
-=======
->>>>>>> 3b928611280841d5c2c87e0b6ecfe34a98450250
   }
 ]

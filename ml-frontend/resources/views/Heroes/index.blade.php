@@ -495,10 +495,9 @@
     <section class="hero-bar">
         <div class="hero-bar-card">
             <div class="eyebrow">MLBB Esports Scout Report</div>
-            <h1 class="title">Hero Command Center</h1>
+            <h1 class="title">Hero Mobile legends</h1>
             <p class="subtitle">
-                Pantau seluruh hero Mobile Legends dari satu dashboard yang lebih rapi: role, lane, specialty,
-                lore, ability kit, dan media gallery sudah disusun ulang dari hasil scraping terbaru.
+                Bisa digunakan untuk memberikan informasi terkait hero, role, lane, specialty, dan data penting lainnya. Gunakan filter dan pencarian untuk menemukan hero yang diinginkan.
             </p>
 
             <div class="stats-strip">
@@ -521,8 +520,7 @@
             <div>
                 <h2>Broadcast Notes</h2>
                 <p>
-                    Tema halaman ini diarahkan seperti portal media esports: kontras hitam-oranye, card lebih tegas,
-                    dan struktur konten langsung mengikuti data hasil scraping yang baru.
+                    Bisa diisi untuk informasi tambahan terkait data hero, catatan update, atau pengumuman penting lainnya.
                 </p>
             </div>
 
